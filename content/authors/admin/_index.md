@@ -28,11 +28,9 @@ education:
     
  # Professional Experience to show in About widget
 interests:
-Work Experience:
-  - Embedded Design Engineer,2016
-    Apsis Solutions, Bangalore, India
-  - Research Intern, 2012
-    MasterSkills Learning Solutions, Bangalore, India
+  - Cyber-Physical Systems 
+  - Risk and Reliability
+  - Artificial Intelligence
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,7 +60,7 @@ email: "shreyasramakrishna90@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, Im Shreyas! I am a fourth year PhD candidate in Electrical Engineering working at [SCOPE Lab](https://scopelab.ai/index.html), advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey). Our lab is located in the “[Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/)” at [Vanderbilt University](https://www.vanderbilt.edu/), Nashville, Tennessee. I work for [DARPA's Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project and my research focus include Cyber-Physical Systems, Risk and Reliability, and Artificial Intelligence.
+Hi, Im Shreyas! I am a fourth year PhD candidate in Electrical Engineering working at [SCOPE Lab](https://scopelab.ai/index.html), advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey). Our lab is located in the “[Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/)” at [Vanderbilt University](https://www.vanderbilt.edu/), Nashville, Tennessee. I am funded by the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project.
 
 #### Recent News
 
