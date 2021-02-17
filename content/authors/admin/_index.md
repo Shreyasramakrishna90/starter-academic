@@ -28,7 +28,6 @@ education:
     year: 2008
 
 # Professional Experience
-experience:
   * Embedded Design Engineer, 2016
     Apsis Solutions, Bangalore, India
   * Research Intern, 2012
