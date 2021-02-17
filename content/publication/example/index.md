@@ -52,14 +52,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.researchgate.net/profile/Abhishek_Dubey7/publication/332289747_Augmenting_Learning_Components_for_Safety_in_Resource_Constrained_Autonomous_Robots/links/5cac166c4585157bd32d288f/Augmenting-Learning-Components-for-Safety-in-Resource-Constrained-Autonomous-Robots.pdf'
-url_code: 'https://github.com/scope-lab-vu/deep-nn-car'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_pdf: #'https://www.researchgate.net/profile/Abhishek_Dubey7/publication/332289747_Augmenting_Learning_Components_for_Safety_in_Resource_Constrained_Autonomous_Robots/l#inks/5cac166c4585157bd32d288f/Augmenting-Learning-Components-for-Safety-in-Resource-Constrained-Autonomous-Robots.pdf'
+#url_code: 'https://github.com/scope-lab-vu/deep-nn-car'
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
