@@ -13,6 +13,16 @@ organizations:
 - name: Vanderbilt University
   url: https://www.vanderbilt.edu/
 
+# Professional Experience to show in About widget
+experience:
+  - Embedded Design Engineer, 2016
+    Apsis Solutions, Bangalore, India
+  - Research Intern, 2012
+    MasterSkills Learning Solutions, Bangalore, India
+  - Teaching Assistant @ Vanderbilt University
+      *Introduction to Engineering Module[Fall 2017] 
+      *Principles of Operating Systems[Spring 2018] 
+      *Resilient Distributed Systems[Fall 2018]
 
 # Education to show in About widget
 education:
@@ -26,19 +36,6 @@ education:
   - course: Bachelors in Electronics and Communication Engineering
     institution: Visvesvaraya Technological University, India
     year: 2008
-
-# Professional Experience to show in About widget
-experience:
-  - Embedded Design Engineer, 2016
-    Apsis Solutions, Bangalore, India
-  - Research Intern, 2012
-    MasterSkills Learning Solutions, Bangalore, India
-  - Teaching Assistant @ Vanderbilt University
-      *Introduction to Engineering Module[Fall 2017] 
-      *Principles of Operating Systems[Spring 2018] 
-      *Resilient Distributed Systems[Fall 2018]
-    
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
