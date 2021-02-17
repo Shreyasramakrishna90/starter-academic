@@ -53,13 +53,13 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: media/Shreyas-Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "shreyasramakrishna90@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Hi, Im Shreyas! I am a fourth year PhD candidate in Electrical Engineering working at [SCOPE Lab](https://scopelab.ai/index.html), advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey). Our lab is located in the “[Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/)” at [Vanderbilt University](https://www.vanderbilt.edu/), Nashville, Tennessee. I work for [DARPA's Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project and my research focus include Cyber-Physical Systems, Risk and Reliability, and Artificial Intelligence.
