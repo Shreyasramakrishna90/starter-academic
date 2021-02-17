@@ -15,15 +15,11 @@ organizations:
 
 # Professional Experience to show in About widget
 experience:
-  - Embedded Design Engineer, 2016
-    Apsis Solutions, Bangalore, India
-  - Research Intern, 2012
-    MasterSkills Learning Solutions, Bangalore, India
-  - Teaching Assistant @ Vanderbilt University
-      *Introduction to Engineering Module[Fall 2017] 
-      *Principles of Operating Systems[Spring 2018] 
-      *Resilient Distributed Systems[Fall 2018]
-
+  - title: Embedded Design Engineer, 2016
+    company: Apsis Solutions, Bangalore, India
+  - title: Research Intern, 2012
+    company: MasterSkills Learning Solutions, Bangalore, India
+  
 # Education to show in About widget
 education:
   courses:
