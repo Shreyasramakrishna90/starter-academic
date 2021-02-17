@@ -53,7 +53,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: static/media/Shreyas-Resume.pdf
+   link: media/Shreyas-Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "shreyasramakrishna90@gmail.com"
