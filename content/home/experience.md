@@ -26,7 +26,6 @@ experience:
     company: Apsis Solutions
     location: Bangalore, India
     date_start: '2016'
-        
   - title: Research Intern
     company: MasterSkills Learning Solutions
     location: Bangalore, India
