@@ -35,9 +35,7 @@ publication_types: ["1"]
 publication: In *IEEE 22nd International Symposium on Real-Time Distributed Computing*
 publication_short: In *ISORC*
 
-abstract: Learning enabled components (LECs) trained using data-driven algorithms are increasingly being used in autonomous robots commonly found in factories, hospitals, and educational laboratories. However, these LECs do not provide any safety guarantees, and testing them is challenging. In this paper, we introduce a framework that performs weighted simplex strategy based supervised safety control, resource management and confidence estimation of autonomous robots. Specifically, we describe two weighted simplex strategies: (a) simple weighted simplex strategy (SW-Simplex) that computes a weighted controller output by comparing the decisions between a safety supervisor and an LEC, and (b) a context-sensitive weighted simplex strategy (CSW-Simplex) that computes a context-aware
-weighted controller output. We use reinforcement learning to learn the contextual weights. We also introduce a system monitor that uses the current state information and a Bayesian network model learned from past data to estimate the probability of the robotic system staying in the safe working region. To aid resource constrained robots in performing complex computations of these weighted simplex strategies, we describe a resource manager that offloads tasks to an available fog nodes. The paper also describes a hardware testbed called DeepNNCar, which is a low cost resource-constrained RC car, built to perform autonomous
-driving. Using the hardware, we show that both SW-Simplex and CSW-Simplex have 40% and 60% fewer safety violations, while demonstrating higher optimized speed during indoor driving (∼ 0.40 m/s) than the original system (using only LECs)
+#abstract: 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -64,9 +62,9 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 #image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  #focal_point: ""
+  #preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -74,7 +72,7 @@ featured: true
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 #projects:
-#- Assured 
+#Assured 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
