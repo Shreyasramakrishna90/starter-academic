@@ -12,15 +12,6 @@ role: PhD Candidate
 organizations:
 - name: Vanderbilt University
   url: https://www.vanderbilt.edu/
-
-# Professional Experience to show in About widget
-experience:
-  - title: Embedded Design Engineer
-    company: Apsis Solutions, Bangalore, India
-    date_start: 2016
-  - title: Research Intern
-    company: MasterSkills Learning Solutions, Bangalore, India
-    date_start: 2012
   
 # Education to show in About widget
 education:
@@ -34,6 +25,15 @@ education:
   - course: Bachelors in Electronics and Communication Engineering
     institution: Visvesvaraya Technological University, India
     year: 2008
+    
+ # Professional Experience to show in About widget
+experience:
+  - title: Embedded Design Engineer
+    company: Apsis Solutions, Bangalore, India
+    date_start: 2016
+  - title: Research Intern
+    company: MasterSkills Learning Solutions, Bangalore, India
+    date_start: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
