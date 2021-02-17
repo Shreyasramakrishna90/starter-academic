@@ -32,10 +32,10 @@ education:
     Apsis Solutions, Bangalore, India
   * Research Intern, 2012
     MasterSkills Learning Solutions, Bangalore, India
-  *Teaching Assistant @ Vanderbilt University
-    *Introduction to Engineering Module[Fall 2017] 
-    *Principles of Operating Systems[Spring 2018] 
-    *Resilient Distributed Systems[Fall 2018]
+  * Teaching Assistant @ Vanderbilt University
+    * Introduction to Engineering Module[Fall 2017] 
+    * Principles of Operating Systems[Spring 2018] 
+    * Resilient Distributed Systems[Fall 2018]
     
 
 
