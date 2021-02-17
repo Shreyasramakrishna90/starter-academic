@@ -15,10 +15,12 @@ organizations:
 
 # Professional Experience to show in About widget
 experience:
-  - title: Embedded Design Engineer, 2016
+  - title: Embedded Design Engineer
     company: Apsis Solutions, Bangalore, India
-  - title: Research Intern, 2012
+    date_start: 2016
+  - title: Research Intern
     company: MasterSkills Learning Solutions, Bangalore, India
+    date_start: 2012
   
 # Education to show in About widget
 education:
