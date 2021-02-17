@@ -24,7 +24,7 @@ education:
     institution: Technical Univerity Kaiserslauter, Germany
     year: 2013
   - course: Bachelors in Electronics and Communication Engineering
-    institution:Visvesvaraya Technological University, India
+    institution: Visvesvaraya Technological University, India
     year: 2008
 
 # Professional Experience
