@@ -28,10 +28,17 @@ education:
     year: 2008
 
 # Professional Experience
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+experience:
+  - title: Embedded Design Engineer
+    company: 'Apsis Solutions, Bangalore, India'
+    date_start: '2016'
+  - title: Research Intern
+    company: 'MasterSkills Learning Solutions, Bangalore, India'
+    date_start: '2012'
+  - title: Teaching Assistant @ Vanderbilt University
+    description:  Introduction to Engineering Module[Fall 2017], Principles of Operating Systems[Spring 2018], Resilient Distributed Systems[Fall 2018]
+    
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
