@@ -33,4 +33,10 @@ experience:
     location: Bangalore
     date_start: '2012-02-01'
     date_end: '2012-05-01'
+  
+  - title: Teaching Assistant
+    company: Vanderbilt University
+    location: Nashville
+    date_start: '2017-08-15'
+    date_end: '2018-12-15'
 ---
