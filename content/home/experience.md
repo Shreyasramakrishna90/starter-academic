@@ -26,9 +26,11 @@ experience:
     company: Apsis Solutions
     location: Bangalore
     date_start: '2015-09-01'
+    date_end: '2017-03-01'
     
   - title: Research Intern
     company: MasterSkills Learning Solutions
     location: Bangalore
     date_start: '2012-02-01'
+    date_end: '2012-05-01'
 ---
