@@ -71,4 +71,4 @@ Hi, Im Shreyas! I am a fourth year PhD candidate in Electrical Engineering worki
 * Special Issue "Dynamic-weighted simplex strategy for learning enabled cyber physical systems" published in Journal of System Architecture. [[paper]](https://www-sciencedirect-com.proxy.library.vanderbilt.edu/science/article/pii/S1383762120300540?casa_token=QhoTqZBNuNYAAAAA:WAs8OWNeEOGx4eUcnlnvf1nqQLGhCewgITGPOn7jIEhZEn6Uin2Or_EHEEPa-8DXhKk5Xq-WJw)
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Shreyas-Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Shreyas_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
