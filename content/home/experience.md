@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -24,10 +24,11 @@ date_format: Jan 2006
 experience:
   - title: Embedded Design Engineer
     company: Apsis Solutions
-    location: Bangalore, India
+    location: Bangalore
     date_start: '2016'
+    
   - title: Research Intern
     company: MasterSkills Learning Solutions
-    location: Bangalore, India
+    location: Bangalore
     date_start: '2012'
 ---
