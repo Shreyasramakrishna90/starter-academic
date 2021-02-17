@@ -27,8 +27,8 @@ education:
     institution: Visvesvaraya Technological University, India
     year: 2008
 
-# Professional Experience
-  experience:
+# Professional Experience to show in About widget
+experience:
   - Embedded Design Engineer, 2016
     Apsis Solutions, Bangalore, India
   - Research Intern, 2012
