@@ -61,10 +61,9 @@ email: "shreyasramakrishna90@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 Hi, Im Shreyas! I am a fourth year PhD candidate in Electrical Engineering working at [SCOPE Lab](https://scopelab.ai/index.html), advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey). Our lab is located in the “[Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/)” at [Vanderbilt University](https://www.vanderbilt.edu/), Nashville, Tennessee. I work for [DARPA's Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project and my research focus include Cyber-Physical Systems, Risk and Reliability, and Artificial Intelligence.
 
-#### :newspaper: Recent News
+#### Recent News
 
 * Presented "Work-in-Progress: Efficient Multi-Class Out-of-Distribution Reasoning for Perception Based Networks" at [EMSOFT2020](http://esweek.hosting2.acm.org/emsoft/) [[paper]](https://ieeexplore.ieee.org/abstract/document/9244027)
 * Presented "Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of β-VAE" at [WAAS2020](https://www.ieee-security.org/TC/SPW2020/WAAS/)  [[paper]](https://ieeexplore.ieee.org/abstract/document/9283847?casa_token=dFjCxDW6Jd0AAAAA:IB6jVE3Cv8HHSwAxwqPr7DTnTg0l3Y8mfhl0LVWs3J2JnLI_sxdpk7uHNkHsN36EEKxmlI-nxQ) 
