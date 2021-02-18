@@ -10,7 +10,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Vanderbilt University
+- name: Institute for Software Integrated Systems // Vanderbilt University
   url: https://www.vanderbilt.edu/
   
 # Education to show in About widget
