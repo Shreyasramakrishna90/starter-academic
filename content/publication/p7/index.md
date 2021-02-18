@@ -34,7 +34,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the Workshop on Design Automation for CPS and IoT*
-#publication_short: In **
+#publication_short: In *DESTION'19*
 
 #abstract: 
 
