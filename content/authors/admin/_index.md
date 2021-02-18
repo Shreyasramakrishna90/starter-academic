@@ -40,8 +40,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:shreyasramakrishna90@gmail.com
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  #icon from `ai` icon pack graduation-cap  # Alternatively, use `
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=M6Yu9GEAAAAJ&hl=en&oi=ao
 - icon: linkedin
   icon_pack: fab
