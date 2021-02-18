@@ -29,7 +29,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE 22nd International Symposium on Real-Time Distributed Computing*
-publication_short: In *ISORC*
+publication_short: In *ISORC'19*
 
 #abstract: 
 
