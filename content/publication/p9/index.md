@@ -1,5 +1,5 @@
 ---
-title: "Model-based design for cps with learning-enabled components"
+title: "A CPS toolchain for learning-based systems: demo abstract"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,9 +10,6 @@ authors:
 - Shreyas Ramakrishna
 - Abhishek Dubey
 - Theodore Bapty
-- Taylor Johnson
-- Xenofon Koutsoukos
-- Janos Sztipanovits
 - Gabor Karsai
 
 # Author notes (optional)
@@ -33,8 +30,8 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the Workshop on Design Automation for CPS and IoT*
-#publication_short: In **
+publication: In *Proceedings of the 10th ACM/IEEE International Conference on Cyber-Physical Systems*
+#publication_short: In *ICCPS'19*
 
 #abstract: 
 
@@ -51,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/10.1145/3313151.3313166'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3302509.3313332'
 url_code: ''
 #url_dataset: ''
 #url_poster: ''
