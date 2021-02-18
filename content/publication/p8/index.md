@@ -1,5 +1,5 @@
 ---
-title: "Model-based design for cps with learning-enabled components"
+title: "CPS Design with Learning-Enabled Components: A Case Study"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -33,8 +33,8 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the Workshop on Design Automation for CPS and IoT*
-#publication_short: In **
+publication: In *Proceedings of the 30th International Workshop on Rapid System Prototyping*
+#publication_short: In *RSP'19*
 
 #abstract: 
 
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/10.1145/3313151.3313166'
+url_paper: 'https://dl.acm.org/doi/abs/10.1145/3339985.3358491'
 url_code: ''
 #url_dataset: ''
 #url_poster: ''
