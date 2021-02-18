@@ -67,7 +67,7 @@ Hi, Im Shreyas! I am a fourth year PhD candidate in Electrical Engineering worki
 * Presented "Work-in-Progress: Efficient Multi-Class Out-of-Distribution Reasoning for Perception Based Networks" at [EMSOFT2020](http://esweek.hosting2.acm.org/emsoft/) [[paper]](https://ieeexplore.ieee.org/abstract/document/9244027)
 * Presented "Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of β-VAE" at [WAAS2020](https://www.ieee-security.org/TC/SPW2020/WAAS/)  [[paper]](https://ieeexplore.ieee.org/abstract/document/9283847?casa_token=dFjCxDW6Jd0AAAAA:IB6jVE3Cv8HHSwAxwqPr7DTnTg0l3Y8mfhl0LVWs3J2JnLI_sxdpk7uHNkHsN36EEKxmlI-nxQ) 
 * "A Methodology for Automating Assurance Case Generation" published in [TMCE2020](https://tmce.io.tudelft.nl/) [[paper]](https://arxiv.org/abs/2003.05388)
-* Special Issue "Dynamic-weighted simplex strategy for learning enabled cyber physical systems" published in Journal of System Architecture. [[paper]](https://www-sciencedirect-com.proxy.library.vanderbilt.edu/science/article/pii/S1383762120300540?casa_token=QhoTqZBNuNYAAAAA:WAs8OWNeEOGx4eUcnlnvf1nqQLGhCewgITGPOn7jIEhZEn6Uin2Or_EHEEPa-8DXhKk5Xq-WJw)
+* Special Issue "Dynamic-weighted simplex strategy for learning enabled cyber physical systems" published in Journal of System Architecture, Volume 111, December 2020. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1383762120300540)
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Shreyas_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
