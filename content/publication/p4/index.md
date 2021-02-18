@@ -30,7 +30,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Tools and Methods of Competitive Engineering Symposium*
-publication_short: In *TMCE*
+publication_short: In *TMCE'20*
 
 #abstract: 
 
