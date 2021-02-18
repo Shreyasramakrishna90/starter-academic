@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Systems Architecture*
-publication_short: In *JSA*
+publication_short: In *JSA'20*
 
 #abstract: 
 
