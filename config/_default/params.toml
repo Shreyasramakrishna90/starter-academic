@@ -88,8 +88,8 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "shreyasramakrishna90@gmail.com"
-phone = "6159269306"
+#email = "shreyasramakrishna90@gmail.com"
+#phone = "6159269306"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,7 +97,7 @@ phone = "6159269306"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.14574", longitude = "-86.79324"}
+#coordinates = {latitude = "36.14574", longitude = "-86.79324"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
