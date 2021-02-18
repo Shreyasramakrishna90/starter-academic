@@ -43,7 +43,7 @@ publication_short: In *ISORC'19*
 #tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
