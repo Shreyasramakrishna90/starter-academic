@@ -1,5 +1,5 @@
 ---
-title: Research Overview - Assuring Cyber-Physical Systems with Learning Enabled Components 
+title: Assuring Cyber-Physical Systems with Learning Enabled Components (Research Overview)
 summary: My research focuses on the system-level safety Assurance of Cyber-Physical Systems with Learning Enabled Components. 
 
 tags:
