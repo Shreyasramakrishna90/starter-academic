@@ -68,7 +68,7 @@ url_pdf: 'https://ieeexplore.ieee.org/document/9244027'
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- content/project/p3/index.md 
+- proj3
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
