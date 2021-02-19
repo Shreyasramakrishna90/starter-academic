@@ -1,9 +1,9 @@
 ---
-title: Out-of-Distribution detectors for Learning Enabled Components (LECs)
-summary: Though LECs have shown remarkable performance for challanging tasks such as autonomous driving ([NVIDIA DAVE-II]()), they have shown to be susceptible to slight shifts in the operating contexts, popularly known as out-of-distribution (OOD) data. 
+title: Runtime contingency Management for Learning-enabled Cyber-Physical Systems
+summary: Cyber-Physical Systems need a contingency plan once it encounters high risk because of operational hazards. 
 
 tags:
-- current
+- old
 
 
 # Optional external URL for project (replaces project detail page).
@@ -22,6 +22,6 @@ image:
 #slides: example
 ---
 
-Learning Enabled Components (LECs) have shown remarkable performance in several perception and control tasks like NVIDIA’s DAVE-II self driving car. However, incidents like TESLA’s self-driving accident and UBER’s autonomous car crash have shown the susceptibility of LECs to Out-of-distribution (OOD) data. Besides the black box nature of the LECs makes it difficult to test and verify them. In this area, we have been working on designing a generative model based Out-of-Distribution method. Specifically, we have been working on designing B-Variational Autoencoders (B-VAE) for detecting the OOD data and isolating the problem causing it. [[paper1]](https://arxiv.org/pdf/2003.08740.pdf) [[paper2]](https://ieeexplore.ieee.org/document/9244027)
+CPSs have increasingly started using LECs for performing perception-based control tasks. The simple design approach, and their capability to continuously learn has led to their widespread use in different autonomous applications. Despite their simplicity and impressive capabilities, these models are difficult to assure, which makes their use challenging. The problem of assuring CPS with untrusted controllers has been achieved using the Simplex Architecture. This architecture integrates the system to be assured with a safe controller and provides a decision logic to switch between the decisions of these controllers. However, designing Simplex Architectures for Learning-enabled CPSs is complex, because of the LECs black-box nature. To address this, i've proposed the dynamic-weighted simplex strategy that uses reinforcement-learning as the decision logic. [[paper1]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8759270&casa_token=sY0FaPfy_jAAAAAA:UkwiJv9Z2ngJAzMy67_g5Ud64AQmhyWKMcnF65XudWqom5PdqKIM8AyZ4v89e-O2-hXijTM&tag=1) [[github]](https://github.com/scope-lab-vu/deep-nn-car) [[paper2]](https://www.sciencedirect.com/science/article/pii/S1383762120300540?casa_token=9jbLN0Eoi3QAAAAA:cBu7fJSS-BDZiiuKn8dnOxkCfcQDqmROKQ4l4C32_sYjSqlHop5YzMd2euF0cTYIqRCVEuM)
 
 
