@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'static/media/Isorc2019'
+url_pdf: 'https://ieeexplore.ieee.org/document/8759270'
 url_code: 'https://github.com/scope-lab-vu/deep-nn-car'
 #url_dataset: ''
 #url_poster: ''
