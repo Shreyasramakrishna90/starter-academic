@@ -1,5 +1,5 @@
 ---
-title:  System Risk Management
+title:  Dynamic Risk Management for Cyber-Physical Systems
 summary: System Risk Management (SRM) has become critical in regulatory accaptance in domains such as aviation. 
 tags:
 - current
