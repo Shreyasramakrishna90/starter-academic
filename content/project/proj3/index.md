@@ -9,7 +9,7 @@ tags:
 #external_link: ""
 
 image:
-  caption: Research Overview
+  caption: Assurance Case Generation Tool
   #focal_point: Smart
 
 
