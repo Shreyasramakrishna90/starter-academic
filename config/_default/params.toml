@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
-show_related = {book = false, page = true, post = true, project = true, publication = true, talk = true}
+show_related = {book = false, page = true, post = true, project = false, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -196,9 +196,9 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  #post_view = 2
+  post_view = 2
   publication_view = 2
-  #talk_view = 2
+  talk_view = 2
 
 # Breadcrumb navigation
 [breadcrumb]
