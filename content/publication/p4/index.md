@@ -69,7 +69,7 @@ url_pdf: 'https://arxiv.org/pdf/2003.05388.pdf'
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- content/project/p2/index.md 
+- proj2
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
