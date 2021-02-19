@@ -1,5 +1,5 @@
 ---
-title: Out-of-Distribution detectors for Learning Enabled Components (LECs)
+title: Out-of-Distribution detectors for Learning Enabled Components
 summary: Though LECs have shown remarkable performance for challanging tasks such as autonomous driving ([NVIDIA DAVE-II](https://www.youtube.com/watch?v=NJU9ULQUwng&ab_channel=IProgrammerTV)), they have shown to be susceptible to slight shifts in the operating contexts, popularly known as out-of-distribution (OOD) data. 
 
 tags:
