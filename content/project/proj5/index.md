@@ -1,5 +1,5 @@
 ---
-title: Runtime contingency Management for Learning-enabled Cyber-Physical Systems
+title: Runtime contingency Management for Cyber-Physical Systems
 summary: Cyber-Physical Systems need a contingency plan once it encounters high risk because of operational hazards. 
 
 tags:
