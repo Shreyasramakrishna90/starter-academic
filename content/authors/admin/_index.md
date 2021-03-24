@@ -64,6 +64,7 @@ Hi, I'm Shreyas Ramakrishna! I am a fourth year PhD candidate in the Electrical 
 
 ## Recent News
 
+* Our Paper "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems" is accepted at [SEAMS'21](https://conf.researchr.org/home/seams-2021) [[paper]](https://arxiv.org/abs/2102.09419)
 * Presented "Work-in-Progress: Efficient Multi-Class Out-of-Distribution Reasoning for Perception Based Networks" at [EMSOFT'20](http://esweek.hosting2.acm.org/emsoft/) [[paper]](https://ieeexplore.ieee.org/abstract/document/9244027)
 * Presented "Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of β-VAE" at [WAAS'20](https://www.ieee-security.org/TC/SPW2020/WAAS/)  [[paper]](https://ieeexplore.ieee.org/abstract/document/9283847?casa_token=dFjCxDW6Jd0AAAAA:IB6jVE3Cv8HHSwAxwqPr7DTnTg0l3Y8mfhl0LVWs3J2JnLI_sxdpk7uHNkHsN36EEKxmlI-nxQ) 
 * "A Methodology for Automating Assurance Case Generation" published in [TMCE'20](https://tmce.io.tudelft.nl/) [[paper]](https://arxiv.org/abs/2003.05388)
