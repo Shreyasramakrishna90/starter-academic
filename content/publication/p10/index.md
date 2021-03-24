@@ -1,15 +1,15 @@
 ---
-title: "A CPS toolchain for learning-based systems: demo abstract"
+title: "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Charles Hartsell
-- Nagabhushan Mahadevan
 - Shreyas Ramakrishna
 - Abhishek Dubey
-- Theodore Bapty
+- Daniel Stojcsics
+- Nagabhushan Mahadevan
 - Gabor Karsai
 
 # Author notes (optional)
@@ -30,8 +30,8 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 10th ACM/IEEE International Conference on Cyber-Physical Systems*
-#publication_short: In *ICCPS'19*
+publication: In *Proceedings of the 16th Symposium on Software Engineering for Adaptive and Self-Managing Systems 2021*
+#publication_short: In *SEAMS'21*
 
 #abstract: 
 
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/10.1145/3302509.3313332'
+url_pdf: 'https://arxiv.org/abs/2102.09419'
 url_code: ''
 #url_dataset: ''
 #url_poster: ''
