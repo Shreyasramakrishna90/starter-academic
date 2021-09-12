@@ -30,7 +30,7 @@ experience:
       
   - title: Teaching Assistant
     company: Vanderbilt University
-    location: Nashville
+    location: Nashville, TN
     date_start: '2017-08-15'
     date_end: '2018-12-15'
   
