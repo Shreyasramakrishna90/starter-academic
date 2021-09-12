@@ -67,7 +67,7 @@ Hi, I'm Shreyas Ramakrishna! I am a fourth year PhD candidate in the Electrical 
 * Our Paper "Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems" is accepted at [TCPS'21](https://dl.acm.org/journal/tcps/special-issue-ai) [[paper]](https://arxiv.org/abs/2108.11800)
 * Presented "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" at [SMARTCOMP'21] [[presenation]](https://vanderbilt365-my.sharepoint.com/:v:/g/personal/shreyas_ramakrishna_vanderbilt_edu/ERjG3U3gV-RKvhHWVIdibGABaO4-2oCMDPbOzjgxaKXtxw?e=0vRRQe)
 * I will be a research intern at Siemens Corporate Technology for the [DARPA ARCOS Project](https://www.darpa.mil/program/automated-rapid-certification-of-software) over the summer semester 2021.  
-* Our Paper "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" is accepted at [SMARTCOMP'21](https://www.smart-comp.info/) [[paper]](https://arxiv.org/abs/2103.14172)
+* Our Paper "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" is accepted at SMARTCOMP'21(https://www.smart-comp.info/) [[paper]](https://arxiv.org/abs/2103.14172)
 * Our Paper "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems" is accepted at [SEAMS'21](https://conf.researchr.org/home/seams-2021) [[paper]](https://arxiv.org/abs/2102.09419)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Shreyas_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
