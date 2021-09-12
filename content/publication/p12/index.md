@@ -1,16 +1,16 @@
 ---
-title: "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems"
+title: "Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Charles Hartsell
 - Shreyas Ramakrishna
-- Abhishek Dubey
-- Daniel Stojcsics
-- Nagabhushan Mahadevan
+- Zahra Rahiminasab
 - Gabor Karsai
+- Arvind Easwaran
+- Abhishek Dubey
+
 
 # Author notes (optional)
 #author_notes:
@@ -27,11 +27,11 @@ publishDate: "2019-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 16th Symposium on Software Engineering for Adaptive and Self-Managing Systems 2021*
-#publication_short: In *SEAMS'21*
+publication: In *ACM Transactions on Cyber-Physical Systems 2021*
+#publication_short: In *TCPS'21*
 
 #abstract: 
 
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2102.09419'
+url_pdf: 'https://arxiv.org/abs/2108.11800'
 url_code: ''
 #url_dataset: ''
 #url_poster: ''
@@ -70,7 +70,7 @@ url_code: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- proj2
+- proj4
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
