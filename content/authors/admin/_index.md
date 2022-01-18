@@ -70,5 +70,4 @@ Hi, I'm Shreyas Ramakrishna! I am a fifth year PhD candidate in the Electrical E
 * Our Paper "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" is accepted at [SMARTCOMP'21](https://www.smart-comp.info/) [[paper]](https://arxiv.org/abs/2103.14172)
 * Our Paper "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems" is accepted at [SEAMS'21](https://conf.researchr.org/home/seams-2021) [[paper]](https://arxiv.org/abs/2102.09419)
 
-<!-- * I presented "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" at [SMARTCOMP'21](https://www.smart-comp.info/) [[presenation]](https://vanderbilt365-my.sharepoint.com/:v:/g/personal/shreyas_ramakrishna_vanderbilt_edu/ERjG3U3gV-RKvhHWVIdibGABaO4-2oCMDPbOzjgxaKXtxw?e=0vRRQe) -->
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Shreyas_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
