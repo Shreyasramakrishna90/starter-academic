@@ -1,6 +1,6 @@
 ---
-title: Out-of-Distribution detectors for Learning Enabled Components
-summary: Though LECs have shown remarkable performance for challanging tasks such as autonomous driving ([NVIDIA DAVE-II](https://www.youtube.com/watch?v=NJU9ULQUwng&ab_channel=IProgrammerTV)), they have shown to be susceptible to slight shifts in the operating contexts, popularly known as out-of-distribution (OOD) data. 
+title: Out-of-Distribution detector for machine learning components
+summary: Though LECs have shown remarkable performance for challanging tasks such as autonomous driving ([NVIDIA DAVE-II](https://www.youtube.com/watch?v=NJU9ULQUwng&ab_channel=IProgrammerTV)), they have shown to be susceptible to slight shifts in the operating contexts, popularly known as out-of-distribution (OOD) data.
 
 tags:
 - current
@@ -24,6 +24,4 @@ image:
 
 ## Summary
 
-Learning Enabled Components (LECs) have shown remarkable performance in several perception and control tasks like NVIDIA’s DAVE-II self driving car. However, incidents like TESLA’s self-driving accident and UBER’s autonomous car crash have shown the susceptibility of LECs to Out-of-distribution (OOD) data. Besides the black box nature of the LECs makes it difficult to test and verify them. In this area, we have been working on designing a generative model based Out-of-Distribution method. Specifically, we have been working on designing B-Variational Autoencoders (B-VAE) for detecting the OOD data and isolating the problem causing it.
-
-
+Machine Learning components have shown remarkable performance in several perception and control tasks like NVIDIA’s DAVE-II self-driving car. However, incidents like TESLA’s self-driving accident and UBER’s autonomous car crash have shown these components to be susceptible to Out-of-distribution (OOD) data. Besides, the black-box nature of these components makes it difficult to test and verify them. To address this, we have used a generative model called B-Variational Autoencoder to detect the OOD data and identify the factor responsible for the OOD data problem. For example, if an autonomous vehicle is trained on images from day scenes, but if it encounters images from evening scenes, then the vehicle's performance on these images will be erroneous. For the vehicle's safety, it is required to detect that the operating scene has changed from that of training and the time-of-day factor is responsible for the problem.
