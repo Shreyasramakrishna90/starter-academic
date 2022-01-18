@@ -30,7 +30,7 @@ education:
 interests:
   - Cyber-Physical Systems 
   - Risk and Reliability
-  - Artificial Intelligence
+  - Machine Learning
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,7 +52,7 @@ social:
 # and uncomment the lines below.
 #- icon: cv
 #  icon_pack: ai
-#  link: media/Shreyas-Resume.pdf
+#  link: media/New_Job_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "shreyasramakrishna90@gmail.com"
@@ -60,12 +60,13 @@ email: "shreyasramakrishna90@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I'm Shreyas Ramakrishna! I am a fourth year PhD candidate in the Electrical Engineering and Computer Science department at [Vanderbilt University](https://www.vanderbilt.edu/). I am advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and work at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am funded by the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project.
+Hi, I'm Shreyas Ramakrishna! I am a fifth year PhD candidate in the Electrical Engineering and Computer Science department at [Vanderbilt University](https://www.vanderbilt.edu/). I am advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and I work at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am funded by the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project.
 
 ## Recent News
 
+* Our paper "Risk-Aware Scene Sampling for Dynamic Assurance of Autonomous Systems" is accepted at [ICAA'22](https://iaa.jhu.edu/icaa/index.html)
 * Our Paper "Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems" is accepted at [TCPS'21](https://dl.acm.org/journal/tcps/special-issue-ai) [[paper]](https://arxiv.org/abs/2108.11800)
-* I presented "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" at [SMARTCOMP'21](https://www.smart-comp.info/) [[presenation]](https://vanderbilt365-my.sharepoint.com/:v:/g/personal/shreyas_ramakrishna_vanderbilt_edu/ERjG3U3gV-RKvhHWVIdibGABaO4-2oCMDPbOzjgxaKXtxw?e=0vRRQe)
+<!-- * I presented "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" at [SMARTCOMP'21](https://www.smart-comp.info/) [[presenation]](https://vanderbilt365-my.sharepoint.com/:v:/g/personal/shreyas_ramakrishna_vanderbilt_edu/ERjG3U3gV-RKvhHWVIdibGABaO4-2oCMDPbOzjgxaKXtxw?e=0vRRQe) -->
 * I will be a research intern at Siemens Corporate Technology for the [DARPA ARCOS Project](https://www.darpa.mil/program/automated-rapid-certification-of-software) over the summer semester 2021.  
 * Our Paper "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" is accepted at [SMARTCOMP'21](https://www.smart-comp.info/) [[paper]](https://arxiv.org/abs/2103.14172)
 * Our Paper "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems" is accepted at [SEAMS'21](https://conf.researchr.org/home/seams-2021) [[paper]](https://arxiv.org/abs/2102.09419)
