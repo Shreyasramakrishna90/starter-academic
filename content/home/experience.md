@@ -27,23 +27,23 @@ experience:
     location: Bangalore
     date_start: '2015-09-01'
     date_end: '2017-05-31'
-      
+
   - title: Graduate Teaching Assistant
     company: Electrical Engineering & Computer Science Department, Vanderbilt University
     location: Nashville, TN
     date_start: '2017-08-15'
     date_end: '2018-12-15'
-  
+
   - title: Research Intern
     company: Siemens Corporate Technology
     location: Princeton, NJ
     date_start: '2021-05-17'
     date_end: '2021-08-13'
-    
-   - title: Graduate Research Assistant
+
+  - title: Graduate Research Assistant
     company: ScopeLab, Institute for Software Integrated Systems
     location: Nashville, TN
     date_start: '2019-01-6'
     date_end: '2022-01-18'
-  
+
 ---
