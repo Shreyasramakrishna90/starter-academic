@@ -1,5 +1,5 @@
 ---
-title:  Research Vertical 3 - Risk Assessment of Autonomous Systems
+title:  Research Vertical 2 - Risk Assessment of Autonomous Systems
 summary: Proactive risk assessment is required for runtime safety assessment of autonomous systems. It needs to utilize the detection results from the anomaly detectors to estimate the risk of the system
 tags:
 - current
