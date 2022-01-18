@@ -26,7 +26,7 @@ experience:
     company: Apsis Solutions
     location: Bangalore
     date_start: '2015-09-01'
-    date_end: '2017-03-01'
+    date_end: '2017-05-31'
       
   - title: Graduate Teaching Assistant
     company: Electrical Engineering & Computer Science Department, Vanderbilt University
@@ -44,6 +44,6 @@ experience:
     company: ScopeLab, Institute for Software Integrated Systems
     location: Nashville, TN
     date_start: '2019-01-6'
-    date_end: 'Present'
+    date_end: '2022-01-18'
   
 ---
