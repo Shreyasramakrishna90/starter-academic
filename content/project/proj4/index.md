@@ -10,7 +10,7 @@ tags:
 #external_link: ""
 
 image:
-  caption: Research Overview
+  caption: Automated Workflow for Out-of-Distribution Detection using B-Variational Autoencoders
   #focal_point: Smart
 
 
@@ -24,4 +24,4 @@ image:
 
 ## Summary
 
-Machine Learning components have shown remarkable performance in several perception and control tasks like NVIDIA’s DAVE-II self-driving car. However, incidents like TESLA’s self-driving accident and UBER’s autonomous car crash have shown these components to be susceptible to Out-of-distribution (OOD) data. Besides, the black-box nature of these components makes it difficult to test and verify them. To address this, we have used a generative model called B-Variational Autoencoder to detect the OOD data and identify the factor responsible for the OOD data problem. For example, if an autonomous vehicle is trained on images from day scenes, but if it encounters images from evening scenes, then the vehicle's performance on these images will be erroneous. For the vehicle's safety, it is required to detect that the operating scene has changed from that of training and the time-of-day factor is responsible for the problem.
+Machine Learning components have shown remarkable performance in several perception and control tasks like NVIDIA’s DAVE-II self-driving car. However, incidents like TESLA’s self-driving accident and UBER’s autonomous car crash have shown these components to be susceptible to Out-of-distribution (OOD) data. Besides, the black-box nature of these components makes it difficult to test and verify them. To address this, we have used a generative model called B-Variational Autoencoder to detect the OOD data and identify the factor responsible for the OOD data problem. For example, if an autonomous vehicle is trained on images from day scenes, but if it encounters images from evening scenes, then the vehicle's performance on these images will be erroneous. For the vehicle's safety, it is required to detect that the operating scene has changed from that of training and the time-of-day factor is responsible for the problem. [Recommended Reading]()
