@@ -28,8 +28,8 @@ experience:
     date_start: '2015-09-01'
     date_end: '2017-03-01'
       
-  - title: Teaching Assistant
-    company: Vanderbilt University
+  - title: Graduate Teaching Assistant
+    company: Electrical Engineering & Computer Science Department, Vanderbilt University
     location: Nashville, TN
     date_start: '2017-08-15'
     date_end: '2018-12-15'
@@ -39,5 +39,11 @@ experience:
     location: Princeton, NJ
     date_start: '2021-05-17'
     date_end: '2021-08-13'
+    
+   - title: Graduate Research Assistant
+    company: ScopeLab, Institute for Software Integrated Systems
+    location: Nashville, TN
+    date_start: '2019-01-6'
+    date_end: 'Present'
   
 ---
