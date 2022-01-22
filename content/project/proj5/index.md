@@ -1,5 +1,5 @@
 ---
-title: Adaptive Decision Making for Risk Mitigation of Autonomous Systems
+title: Project4 - Adaptive Decision Making for Risk Mitigation of Autonomous Systems
 summary: Cyber-Physical Systems need a contingency plan once it encounters high risk because of operational hazards.
 
 tags:
