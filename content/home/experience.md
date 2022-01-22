@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Embedded Design Engineer
     company: Apsis Solutions
-    location: Bangalore
+    location: Bangalore, India
     date_start: '2015-09-01'
     date_end: '2017-05-31'
 
@@ -44,6 +44,6 @@ experience:
     company: ScopeLab, Institute for Software Integrated Systems
     location: Nashville, TN
     date_start: '2019-01-06'
-    date_end: '2022-01-22'
+    date_end: ''
 
 ---
