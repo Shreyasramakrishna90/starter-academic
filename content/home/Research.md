@@ -41,7 +41,7 @@ design:
 ---
 # Dynamic Safety Assurance of Autonomous Systems
 <p align="center">
-  <img src="media/featured.jpg" align="center" width="600" height="400"/>
+  <img src="media/featured.jpg" align="center" width="700" height="400"/>
 </p>
 <!-- xfun::embed_file("media/featured.pdf") -->
 
