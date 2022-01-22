@@ -24,14 +24,9 @@
   weight = 40
 
 [[main]]
-  name = "Demos"
-  url = "#demos"
-  weight = 50
-
-[[main]]
   name = "Publications"
   url = "#featured"
-  weight = 60
+  weight = 50
 
 #[[main]]
 #  name = "Contact"
