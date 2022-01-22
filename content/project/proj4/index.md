@@ -2,8 +2,8 @@
 title: Out-of-Distribution Detection and Feature Identification
 summary: Though machine learning components have shown remarkable performance for challenging tasks such as autonomous driving ([NVIDIA DAVE-II](https://www.youtube.com/watch?v=NJU9ULQUwng&ab_channel=IProgrammerTV)), they have shown to be susceptible to slight shifts in the operating contexts, popularly known as out-of-distribution (OOD) data.
 
-tags:
-- current
+#tags:
+#- current
 
 
 # Optional external URL for project (replaces project detail page).

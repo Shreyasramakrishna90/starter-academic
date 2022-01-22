@@ -2,8 +2,8 @@
 title: DeepNNCar Autonomous Driving research tested
 summary: Low-cost research testbed for designing, training and testing autonomous driving pipelines and assurance components
 
-tags:
-- old
+#tags:
+#- old
 
 
 # Optional external URL for project (replaces project detail page).

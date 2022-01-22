@@ -2,7 +2,7 @@
 title: "Augmenting Learning Components for Safety in Resource Constrained Autonomous Robots"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Shreyas Ramakrishna
@@ -35,7 +35,7 @@ publication_types: ["1"]
 publication: In *IEEE 22nd International Symposium on Real-Time Distributed Computing*
 publication_short: In *ISORC'19*
 
-#abstract: 
+#abstract:
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -60,7 +60,7 @@ url_code: 'https://github.com/scope-lab-vu/deep-nn-car'
 #url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   #focal_point: ""
@@ -71,8 +71,8 @@ url_code: 'https://github.com/scope-lab-vu/deep-nn-car'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
- - proj5
+projects:
+ - proj5,proj6
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -81,4 +81,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
