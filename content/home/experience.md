@@ -40,4 +40,10 @@ experience:
     date_start: '2021-05-17'
     date_end: '2021-08-13'
 
+  - title: Graduate Research Assistant
+    company: ScopeLab, Institute for Software Integrated Systems
+    location: Nashville, TN
+    date_start: '2019-01-06'
+    date_end: '2022-01-22'
+
 ---
