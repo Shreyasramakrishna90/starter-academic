@@ -22,7 +22,7 @@ tags:
 ---
 
 <p align="center">
-  <img src="media/resonate-brightness.gif" align="center"/>
+  <img src="media/resonate.gif" align="center"/>
 </p>
 
 Resonate estimated collision rate as the Autonomous Vehicle navigated through a nominal CARLA scene with weather(cloud = 0.0, precipitation = 0.0, deposits = 0.0). The scene gets adverse with high brightness. The [B-VAE assurance monitor](https://ieeexplore-ieee-org.proxy.library.vanderbilt.edu/stamp/stamp.jsp?arnumber=9283847) detects the increase in brightness and its martingale increases. The Blur detectors and Occlusion detector (on left) remain low throughout. The Likelihood of a collision increases with the adverse brightness, and as expected the AV goes very close to the other vehicle stopped in front.
