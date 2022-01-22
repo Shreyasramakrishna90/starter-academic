@@ -44,5 +44,5 @@ Tremendous advances have been made in the area of autonomous Cyber Physical Syst
 
 <!-- [![Screenshot](https://github.com/Shreyasramakrishna90/starter-academic/blob/master/static/media/featured.jpg) -->
 <p align="center">
-  <img src="https://github.com/Shreyasramakrishna90/starter-academic/blob/master/static/media/featured.jpg" />
+  <img src="media/featured.jpg" />
 </p>
