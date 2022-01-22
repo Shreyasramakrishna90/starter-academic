@@ -1,6 +1,6 @@
 ---
-title:  Research Horizontal - Design-Time Assurance Case for Autonomous Systems
-summary: System-level Assurance Case has become a critical requirement of the regulatory acceptance. However, problems such as human relaiance, lack of automation and design procedure makes it challanging to desgin a robust assurance case.
+title:  Development of Assurance Case for design-time safety assurance
+summary: System-level Assurance Case has become a critical requirement of the regulatory acceptance. However, problems such as human relaiance, lack of automation and design procedure makes it challenging to design a robust assurance case.
 tags:
 - old
 
