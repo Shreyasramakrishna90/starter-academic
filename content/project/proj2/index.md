@@ -1,5 +1,5 @@
 ---
-title:  Research Vertical 2 - Dynamic Risk Assessment
+title:  Project3 - Dynamic Risk Assessment
 summary: Proactive risk assessment is required for runtime safety assessment of autonomous systems. It needs to utilize the detection results from the anomaly detectors to estimate the risk of the system
 tags:
 - current
@@ -9,7 +9,7 @@ tags:
 #external_link: ""
 
 image:
-  caption: Research Overview
+  caption: Resonate Risk Assessment Framework
   #focal_point: Smart
 
 
