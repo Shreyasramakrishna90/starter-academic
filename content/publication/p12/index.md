@@ -5,7 +5,7 @@ title: "Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Shreyas Ramakrishna
+- admin
 - Zahra Rahiminasab
 - Gabor Karsai
 - Arvind Easwaran
