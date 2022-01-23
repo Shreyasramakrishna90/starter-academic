@@ -6,7 +6,7 @@ title: "Deepnncar: A testbed for deploying and testing middleware frameworks for
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Matthew P Burruss
-- Shreyas Ramakrishna
+- admin
 - Gabor Karsai
 -  Abhishek Dubey
 

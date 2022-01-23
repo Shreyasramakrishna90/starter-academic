@@ -2,11 +2,11 @@
 title: "Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of Beta-VAE"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Vijay kumar Sundar
-- Shreyas Ramakrishna
+- admin
 - Zahra Rahiminasab
 - Arvind Easwaran
 - Abhishek Dubey
@@ -32,7 +32,7 @@ publication_types: ["1"]
 publication: In *IEEE Security and Privacy Workshops*
 publication_short: In *SPW'20*
 
-#abstract: 
+#abstract:
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -57,7 +57,7 @@ url_pdf: 'https://arxiv.org/pdf/2003.08740.pdf'
 #url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   #focal_point: ""

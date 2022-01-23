@@ -2,11 +2,11 @@
 title: "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Matthew Burruss
-- Shreyas Ramakrishna
+- admin
 - Abhishek Dubey
 
 # Author notes (optional)
@@ -30,7 +30,7 @@ publication_types: ["3"]
 publication: In *7th IEEE International Conference on Smart Computing 2021*
 #publication_short: In *SMARTCOMP'21*
 
-#abstract: 
+#abstract:
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -55,7 +55,7 @@ url_code: ''
 #url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   #focal_point: ""

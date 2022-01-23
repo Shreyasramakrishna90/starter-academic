@@ -6,7 +6,7 @@ title: "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Charles Hartsell
-- Shreyas Ramakrishna
+- admin
 - Abhishek Dubey
 - Daniel Stojcsics
 - Nagabhushan Mahadevan

@@ -2,12 +2,12 @@
 title: "CPS Design with Learning-Enabled Components: A Case Study"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Charles Hartsell
 - Nagabhushan Mahadevan
-- Shreyas Ramakrishna
+- admin
 - Abhishek Dubey
 - Theodore Bapty
 - Taylor Johnson
@@ -36,7 +36,7 @@ publication_types: ["1"]
 publication: In *Proceedings of the 30th International Workshop on Rapid System Prototyping*
 #publication_short: In *RSP'19*
 
-#abstract: 
+#abstract:
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -61,7 +61,7 @@ url_code: ''
 #url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   #focal_point: ""
@@ -82,4 +82,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-

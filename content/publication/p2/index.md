@@ -2,10 +2,10 @@
 title: "Dynamic-weighted simplex strategy for learning enabled cyber physical systems"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Shreyas Ramakrishna
+- admin
 - Charles Hartsell
 - Matthew P Burruss
 - Gabor Karsai
@@ -32,7 +32,7 @@ publication_types: ["2"]
 publication: In *Journal of Systems Architecture*
 publication_short: In *JSA'20*
 
-#abstract: 
+#abstract:
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -57,7 +57,7 @@ url_code: 'https://github.com/scope-lab-vu/deep-nn-car'
 #url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   #focal_point: ""
