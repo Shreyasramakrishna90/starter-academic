@@ -41,12 +41,14 @@ design:
 ---
 # Dynamic Safety Assurance of Autonomous Systems
 
+Tremendous advances have been made in the area of autonomous Cyber Physical Systems (CPSs) in the last decades, through self-driving cars, unmanned robots, unmanned aerial vehicles, etc. Despite its widespread use, there are still challenges in designing fully autonomous systems, as guaranteeing the safety of such systems is challenging. There have always been design-time techniques like Assurance Case with verification and testing for safety assurance of CPS. However, the evolving operating conditions of these systems and the uncertainties introduced by the machine learning components render the design-time techniques insufficient. So, runtime monitoring is needed to complement the design-time techniques for runtime safety assurance of these systems. The primary goal of my research is to perform runtime safety assurance of autonomous systems. For this, I have been developing a Dynamic Safety Assurance framework as shown in the figure (each component is highlighted as a project).
+
 <p align="center">
   <img src="media/featured.jpg" align="center"/>
 </p>
 <!-- xfun::embed_file("media/featured.pdf") -->
 
-Tremendous advances have been made in the area of autonomous Cyber Physical Systems (CPSs) in the last decades, through self-driving cars, unmanned robots, unmanned aerial vehicles, etc. Despite its widespread use, there are still challenges in designing fully autonomous systems, as guaranteeing the safety of such systems is challenging. There have always been design-time techniques like Assurance Case with verification and testing for safety assurance of CPS. However, the evolving operating conditions of these systems and the uncertainties introduced by the machine learning components render the design-time techniques insufficient. So, runtime monitoring is needed to complement the design-time techniques for runtime safety assurance of these systems. The primary goal of my research is to perform runtime safety assurance of autonomous systems. For this, I have been developing a Dynamic Safety Assurance framework (shown in the figure) with three components that perform the following activities at runtime.
+The framework has three components that perform the following activities at runtime.
 
 1. **Detect** anomalies in the system's components at runtime. Primarily, I am interested in detecting the Out-of-Distribution data problem caused by the violation of the closed-world assumption made in training the machine learning components (Out-of-Distribution Detection and Feature Identification).
 
