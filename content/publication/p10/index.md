@@ -2,7 +2,7 @@
 title: "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Charles Hartsell
@@ -13,9 +13,9 @@ authors:
 - Gabor Karsai
 
 # Author notes (optional)
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 #date: "2013-07-01T00:00:00Z"
 #doi: ""
@@ -33,7 +33,7 @@ publication_types: ["1"]
 publication: In *Proceedings of the 16th Symposium on Software Engineering for Adaptive and Self-Managing Systems 2021*
 #publication_short: In *SEAMS'21*
 
-#abstract: 
+#abstract:
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -58,7 +58,7 @@ url_code: ''
 #url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   #focal_point: ""
