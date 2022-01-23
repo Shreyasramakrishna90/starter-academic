@@ -29,8 +29,9 @@ education:
  # Professional Experience to show in About widget
 interests:
   - Cyber-Physical Systems
-  - Risk and Reliability
   - Machine Learning
+  - Safety and Risk Assessment
+
 
   #header:
     #image: "media/av.jpeg"
