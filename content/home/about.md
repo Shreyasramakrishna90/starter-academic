@@ -19,7 +19,7 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 
-header:
-  image: "media/av.jpeg"
+#header:
+#  image: "media/av.jpeg"
 
 ---
