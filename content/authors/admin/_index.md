@@ -6,12 +6,12 @@ title: Shreyas Ramakrishna
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Graduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Vanderbilt University
-  url: https://www.vanderbilt.edu/
+- name: Institute for Software Integrated Systems
+  url: https://www.isis.vanderbilt.edu/
 
 # Education to show in About widget
 education:
