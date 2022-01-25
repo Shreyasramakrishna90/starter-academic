@@ -49,7 +49,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2102.09419'
-url_code: ''
+url_code: 'https://github.com/scope-lab-vu/Resonate'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
