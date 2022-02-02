@@ -41,6 +41,9 @@ design:
 ---
 # Dynamic Safety Assurance of Autonomous Systems
 
+url_slides: 'https://vanderbilt365-my.sharepoint.com/:p:/g/personal/shreyas_ramakrishna_vanderbilt_edu/ERRHyuAS-j1BjNK82U6gWUsBdbW9eG0u0kmEieNUD69Zog?e=drHFcY'
+
+
 Tremendous advances have been made in the area of autonomous Cyber Physical Systems (CPSs) in the last decades, through self-driving cars, unmanned robots, unmanned aerial vehicles, etc. Despite its widespread use, there are still challenges in designing fully autonomous systems, as guaranteeing the safety of such systems is challenging. There have always been design-time techniques like Assurance Case with verification and testing for safety assurance of CPS. However, the evolving operating conditions of these systems and the uncertainties introduced by the machine learning components render the design-time techniques insufficient. So, runtime monitoring is needed to complement the design-time techniques for runtime safety assurance of these systems. The primary goal of my research is to perform runtime safety assurance of autonomous systems. For this, I have been developing a Dynamic Safety Assurance framework as shown in the figure (each component highlighted in the figure is a project). These components are not limited to autonomous vehicles but can be applied to other CPS domains, including electrical grids, smart grids, transportation systems, etc.
 
 <p align="center">
