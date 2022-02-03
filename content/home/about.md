@@ -32,11 +32,6 @@ design:
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax: true
 
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["200px", "0", "300px", "0"]
-
-
 #header:
 #  image: "media/av.jpeg"
 
