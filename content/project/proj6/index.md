@@ -26,4 +26,4 @@ To implement, validate, and test our research products, we have mainly used the 
 
 # Demonstration
 
-{{< youtube id="BueAenB4H9w&ab_channel=Shreyas" autoplay="true" title="DeepNNCar operating in autonomous mode" >}}
+{{< youtube id="BueAenB4H9w&ab_channel=Shreyas" title="DeepNNCar operating in autonomous mode" >}}
