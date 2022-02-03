@@ -25,7 +25,7 @@ author: admin
 design:
   background:
     # Name of image in `assets/media/`.
-    image: bubble-wide.jpeg
+    image: bubbles-wide.jpeg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 1
     #  Options are `cover` (default), `contain`, or `actual` size.
