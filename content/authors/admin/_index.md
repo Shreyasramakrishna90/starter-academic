@@ -30,7 +30,7 @@ education:
 interests:
   - Cyber-Physical Systems
   - Machine Learning
-  - Safety and Risk Assessment
+  - Safe AI
 
 
   #header:
