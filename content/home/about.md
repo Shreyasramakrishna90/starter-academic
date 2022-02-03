@@ -7,7 +7,7 @@ widget: about
 active: true
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 10
@@ -21,5 +21,8 @@ author: admin
 
 #header:
 #  image: "media/av.jpeg"
+
+header:
+  image: "/headers/av.jpeg"
 
 ---
