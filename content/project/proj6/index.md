@@ -27,3 +27,5 @@ To implement, validate, and test our research products, we have mainly used the 
 # Demonstration
 
 {{< youtube id="BueAenB4H9w" title="DeepNNCar operating in autonomous mode" >}}
+
+A demonstration of the DeepNNCar operating on an indoor track. The car is performing end-to-end driving using a modified [NVIDIA DAVE-II](https://arxiv.org/abs/1604.07316) convolutional neural network. The network is trained to drive within the tracks while achieving high speeds. You can learn more about the platform from our [[GitHub]](https://github.com/scope-lab-vu/deep-nn-car)  
