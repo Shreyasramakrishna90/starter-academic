@@ -25,7 +25,7 @@ author: admin
 design:
   background:
     # Name of image in `assets/media/`.
-    image: ai1.jpg #bubbles-wide.jpg
+    image: ai2.jpg #bubbles-wide.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 1
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -37,6 +37,6 @@ design:
 
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["200px", "0", "200px", "0"]
+    padding: ["300px", "0", "200px", "0"]
 
 ---
