@@ -6,7 +6,7 @@
 [[main]]
   name = "Background"
   url = "#background"
-  weight = 10
+  weight = 5
 
 [[main]]
   name = "Home"
