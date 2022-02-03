@@ -22,7 +22,7 @@ author: admin
 #header:
 #  image: "media/av.jpeg"
 
-#design:
+design:
   background:
     # Name of image in `assets/media/`.
     image: ai1.jpg #bubbles-wide.jpg
