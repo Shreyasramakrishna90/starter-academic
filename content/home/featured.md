@@ -33,6 +33,20 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+
+design:
+  background:
+    # Name of image in `assets/media/`.
+    image: ai4.jpg #bubbles-wide.jpg
+    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    image_darken: 0.85
+    #  Options are `cover` (default), `contain`, or `actual` size.
+    image_size: cover
+    # Options include `left`, `center` (default), or `right`.
+    image_position: center
+    # Use a fun parallax-like fixed background effect on desktop? true/false
+    image_parallax: true
+
 ---
 
 {{% callout note %}}
