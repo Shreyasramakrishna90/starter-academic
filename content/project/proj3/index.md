@@ -1,5 +1,5 @@
 ---
-title:  Development of Assurance Case for design-time safety assurance
+title:  Design-Time Assurance Case Construction
 summary: System-level Assurance Case has become a critical requirement of the regulatory acceptance. However, problems such as human relaiance, lack of automation and design procedure makes it challenging to design a robust assurance case.
 #tags:
 #- old

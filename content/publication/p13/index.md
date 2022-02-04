@@ -70,7 +70,7 @@ url_code: 'https://github.com/scope-lab-vu/Risk-Aware-Scene-Generation-CPS'
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- proj2
+- proj7
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

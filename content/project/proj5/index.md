@@ -1,5 +1,5 @@
 ---
-title: Proactive Decision Making for Risk Mitigation of Autonomous Systems
+title: Proactive Decision Making for Autonomous Systems
 summary: Cyber-Physical Systems need a contingency plan once it encounters high risk because of operational hazards.
 
 #tags:
