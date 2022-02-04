@@ -2,8 +2,8 @@
 title: Proactive Decision Making for Autonomous Systems
 summary: Cyber-Physical Systems need a contingency plan once it encounters high risk because of operational hazards.
 
-#tags:
-#- old
+tags:
+- old
 
 
 # Optional external URL for project (replaces project detail page).

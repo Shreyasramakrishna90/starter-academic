@@ -2,8 +2,8 @@
 title: Test Case Generation for Autonomous Vehicles
 summary: Scene generation has recently gained interest for testing AVs in simulation.
 
-#tags:
-#- old
+tags:
+- current
 
 
 # Optional external URL for project (replaces project detail page).

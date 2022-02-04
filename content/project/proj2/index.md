@@ -1,8 +1,9 @@
 ---
 title:  Risk Assessment for Autonomous Systems
 summary: Proactive risk assessment is required for runtime safety assessment of autonomous systems. It needs to utilize the detection results from the anomaly detectors to estimate the risk of the system
-#tags:
-#- current
+
+tags:
+- current
 
 
 # Optional external URL for project (replaces project detail page).
