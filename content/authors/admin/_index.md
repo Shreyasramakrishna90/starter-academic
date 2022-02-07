@@ -77,4 +77,4 @@ I am a fifth year PhD candidate in the Electrical Engineering and Computer Scien
 * Our Paper "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" is accepted at [SMARTCOMP'21](https://www.smart-comp.info/) [[paper]](https://arxiv.org/abs/2103.14172)
 * Our Paper "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems" is accepted at [SEAMS'21](https://conf.researchr.org/home/seams-2021) [[paper]](https://arxiv.org/abs/2102.09419)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}[resume]{{< /staticref >}} [[research slides]](https://vanderbilt365-my.sharepoint.com/:p:/g/personal/shreyas_ramakrishna_vanderbilt_edu/ERRHyuAS-j1BjNK82U6gWUsBdbW9eG0u0kmEieNUD69Zog?e=drHFcY)
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}[resume]{{< /staticref >}} [[research slides]](https://vanderbilt365-my.sharepoint.com/:p:/g/personal/shreyas_ramakrishna_vanderbilt_edu/ES6TM5DPlMhMv0npCm0PLpoB-kkqsFr7ER_k3JbJ8WX6DQ?e=5HBPIS)
