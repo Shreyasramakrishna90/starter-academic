@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M6Yu9GEAAAAJ&citation_for_view=M6Yu9GEAAAAJ:hqOjcs7Dif8'
+url_pdf: 'https://arxiv.org/abs/2202.13510'
 url_code: 'https://github.com/scope-lab-vu/Risk-Aware-Scene-Generation-CPS'
 #url_dataset: ''
 #url_poster: ''

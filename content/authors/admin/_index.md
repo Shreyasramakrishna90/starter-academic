@@ -72,7 +72,7 @@ I am a fifth year PhD candidate in the Electrical Engineering and Computer Scien
 
 ## Recent News
 
-* **Jan 2022** Our paper "Risk-Aware Scene Sampling for Dynamic Assurance of Autonomous Systems" is accepted at [ICAA'22](https://iaa.jhu.edu/icaa/index.html) [[paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M6Yu9GEAAAAJ&citation_for_view=M6Yu9GEAAAAJ:hqOjcs7Dif8C)
+* **Jan 2022** Our paper "Risk-Aware Scene Sampling for Dynamic Assurance of Autonomous Systems" is accepted at [ICAA'22](https://iaa.jhu.edu/icaa/index.html) [[paper]](https://arxiv.org/abs/2202.13510)
 * **Aug 2021** Our Paper "Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems" is accepted at [TCPS'21](https://dl.acm.org/journal/tcps/special-issue-ai) [[paper]](https://arxiv.org/abs/2108.11800)
 * **May 2021** Our Paper "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" is accepted at [SMARTCOMP'21](https://www.smart-comp.info/) [[paper]](https://arxiv.org/abs/2103.14172)
 * **May 2021** I will be interning at Siemens Corporation, Technology, over the summer. I will be working on the DARPA ARCOS project.
