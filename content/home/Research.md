@@ -41,7 +41,7 @@ design:
 ---
 
 <p align="center">
-  <img src="media/featured.jpg" align="center"/>
+  <img src="media/featured.png" align="center"/>
 </p>
 <!-- xfun::embed_file("media/featured.pdf") -->
 
