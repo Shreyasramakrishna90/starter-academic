@@ -53,7 +53,7 @@ src="https://www.youtube.com/embed/BueAenB4H9w">
 src="https://www.youtube.com/embed/umwnMnq2ggc">
 </iframe>
 </div>
-<div class="col-md-4 services">
+<div class="col-md-12 services">
 <iframe width="380" height="315"
 src="https://www.youtube.com/embed/CK8ghywFI_Q">
 </iframe>
