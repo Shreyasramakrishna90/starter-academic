@@ -39,6 +39,10 @@ design:
   # For Showcase view, flip alternate rows?
   #flip_alt_rows: false
 
+  .main-content-wrap{
+      max-width: 60px
+  }
+
 
 ---
 <div class="container">
