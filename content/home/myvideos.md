@@ -27,7 +27,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '5'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -44,17 +44,17 @@ design:
 <div class="container">
 <div class="row">
 <div class="col-md-4 services">
-<iframe width="420" height="315"
+<iframe width="400" height="315"
 src="https://www.youtube.com/embed/N51uYJy2nZM">
 </iframe>
 </div>
 <div class="col-md-4 services">
-<iframe width="420" height="315"
+<iframe width="400" height="315"
 src="https://www.youtube.com/embed/GjoYbsvUoO4">
 </iframe>
 </div>
 <div class="col-md-4 services">
-<iframe width="420" height="315"
+<iframe width="400" height="315"
 src="https://www.youtube.com/embed/3djECXHDuGc">
 </iframe>
 </div>
