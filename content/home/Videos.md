@@ -17,7 +17,7 @@ content:
   page_type: demo
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
-  column: 2
+  #column: 2
   # Filter on criteria
   filters:
     author: ""
@@ -48,7 +48,6 @@ design:
 
 <div class="container">
 <div class="row">
-<p class="page-title">Interesting Videos of Einstein's Work</p>
 <div class="col-md-4 services">
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/N51uYJy2nZM">
