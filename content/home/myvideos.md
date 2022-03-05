@@ -39,20 +39,16 @@ design:
   # For Showcase view, flip alternate rows?
   #flip_alt_rows: false
 
-  .main-content-wrap{
-      max-width: 60px
-  }
-
 
 ---
 <div class="container">
 <div class="row">
-<div class="col-md-4 services">
+<div class="col-md-12 services">
 <iframe width="380" height="315"
 src="https://www.youtube.com/embed/BueAenB4H9w">
 </iframe>
 </div>
-<div class="col-md-4 services">
+<div class="col-md-12 services">
 <iframe width="380" height="315"
 src="https://www.youtube.com/embed/umwnMnq2ggc">
 </iframe>
