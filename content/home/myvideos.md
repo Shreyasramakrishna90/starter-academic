@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Videos
-subtitle: ''
+title: Demonstrations
+subtitle: 'Some Videos demonstrating the detect-assess-mitigate components of my research'
 
 content:
   # Page type to display. E.g. project.
