@@ -43,17 +43,17 @@ design:
 ---
 <div class="container">
 <div class="row">
-<div class="col-md-12 services">
+<div class="col-md-6 services">
 <iframe width="380" height="315"
 src="https://www.youtube.com/embed/BueAenB4H9w">
 </iframe>
 </div>
-<div class="col-md-12 services">
+<div class="col-md-6 services">
 <iframe width="380" height="315"
 src="https://www.youtube.com/embed/umwnMnq2ggc">
 </iframe>
 </div>
-<div class="col-md-12 services">
+<div class="col-md-6 services">
 <iframe width="380" height="315"
 src="https://www.youtube.com/embed/CK8ghywFI_Q">
 </iframe>
