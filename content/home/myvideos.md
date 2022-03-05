@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Demonstrations
-subtitle: 'Some Videos demonstrating the detect-assess-mitigate components of my research'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
