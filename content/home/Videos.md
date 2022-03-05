@@ -17,6 +17,7 @@ content:
   page_type: demo
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
+  column: 2
   # Filter on criteria
   filters:
     author: ""
