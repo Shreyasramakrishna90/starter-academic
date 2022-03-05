@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: 'Demonstrations'
 subtitle:
@@ -39,12 +39,18 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+{{< youtube id="BueAenB4H9w" title="DeepNNCar operating in autonomous mode" >}}
 
-<p align="center">
+{{< youtube id="BueAenB4H9w" title="DeepNNCar operating in autonomous mode" >}}
+
+{{< youtube id="BueAenB4H9w" title="DeepNNCar operating in autonomous mode" >}}
+
+
+<!-- <p align="center">
   <img src="media/featured.png" align="center"/>
   <img src="media/featured.png" align="center"/>
   <img src="media/featured.png" align="center"/>
-</p>
+</p> -->
 <!-- xfun::embed_file("media/featured.pdf") -->
 
 
