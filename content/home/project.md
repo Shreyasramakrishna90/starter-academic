@@ -13,7 +13,6 @@ title: Projects
 subtitle: ''
 
 content:
-  <br>
   # Page type to display. E.g. project.
   page_type: project
 
