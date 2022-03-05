@@ -39,11 +39,32 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-{{< youtube id="BueAenB4H9w" title="DeepNNCar operating in autonomous mode" >}}
+<!-- {{< youtube id="BueAenB4H9w" title="DeepNNCar operating in autonomous mode" autoplay="true" >}}
 
-{{< youtube id="BueAenB4H9w" title="DeepNNCar operating in autonomous mode" >}}
+{{< youtube id="BueAenB4H9w" title="DeepNNCar operating in autonomous mode" autoplay="true">}}
 
-{{< youtube id="BueAenB4H9w" title="DeepNNCar operating in autonomous mode" >}}
+{{< youtube id="BueAenB4H9w" title="DeepNNCar operating in autonomous mode" autoplay="true">}} -->
+
+<div class="container">
+<div class="row">
+<p class="page-title">Interesting Videos of Einstein's Work</p>
+<div class="col-md-4 services">
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/N51uYJy2nZM">
+</iframe>
+</div>
+<div class="col-md-4 services">
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/GjoYbsvUoO4">
+</iframe>
+</div>
+<div class="col-md-4 services">
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/3djECXHDuGc">
+</iframe>
+</div>
+</div>
+</div>
 
 
 <!-- <p align="center">
