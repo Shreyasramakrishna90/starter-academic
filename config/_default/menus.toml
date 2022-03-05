@@ -14,10 +14,10 @@
   url = "#Research"
   weight = 30
 
-  [[main]]
-    name = "Demonstrations"
-    url = "#Demonstrations"
-    weight = 40
+[[main]]
+  name = "Demonstrations"
+  url = "#Demonstrations"
+  weight = 40
 
 [[main]]
   name = "Projects"
