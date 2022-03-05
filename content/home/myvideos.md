@@ -44,18 +44,18 @@ design:
 <div class="container">
 <div class="row">
 <div class="col-md-4 services">
-<iframe width="400" height="315"
+<iframe width="380" height="315"
 src="https://www.youtube.com/embed/BueAenB4H9w">
 </iframe>
 </div>
 <div class="col-md-4 services">
-<iframe width="400" height="315"
-src="https://www.youtube.com/embed/BueAenB4H9w">
+<iframe width="380" height="315"
+src="https://www.youtube.com/embed/v=umwnMnq2ggc">
 </iframe>
 </div>
 <div class="col-md-4 services">
-<iframe width="400" height="315"
-src="https://www.youtube.com/embed/BueAenB4H9w">
+<iframe width="380" height="315"
+src="https://www.youtube.com/embed/CK8ghywFI_Q">
 </iframe>
 </div>
 </div>
