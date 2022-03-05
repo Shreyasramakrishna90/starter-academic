@@ -12,6 +12,8 @@ weight: 50
 title: Projects
 subtitle: ''
 
+<br>
+
 content:
   # Page type to display. E.g. project.
   page_type: project
