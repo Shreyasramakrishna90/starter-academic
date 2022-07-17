@@ -68,10 +68,13 @@ email: "shreyasramakrishna90@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a fifth year PhD candidate in the Electrical Engineering and Computer Science department at [Vanderbilt University](https://www.vanderbilt.edu/). I am advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and I work at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am funded by the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project.
+I am an electrical engineering PhD from [Vanderbilt University](https://www.vanderbilt.edu/). I am advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and I work at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am funded by the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project.
 
 ## Recent News
-
+* **July 2022** I successfully defended my PhD on July 5th [Defense Call](https://www.linkedin.com/posts/vu-electrical-and-computer-engineering_engineering-cyberphysicalsystems-activity-6948301779109351424-LH0U?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* **June 2022** Our paper "ANTI-CARLA: An Adversarial Testing Framework for Autonomous Vehicles in CARLA" is accepted at [ITSC'22](https://www.ieee-itsc2022.org/#/)
+* **Mar 2022** Our paper "Automating Pattern Selection for Assurance Case Development for Cyber-Physical Systems" is accepted at [SafeComp'22](https://safecomp22.iks.fraunhofer.de/)
+* **Jan 2022** I successfully passed my Qualifying exam, which officially makes me a PhD candidate at Vanderbilt University.
 * **Jan 2022** Our paper "Risk-Aware Scene Sampling for Dynamic Assurance of Autonomous Systems" is accepted at [ICAA'22](https://iaa.jhu.edu/icaa/index.html) [[paper]](https://arxiv.org/abs/2202.13510)
 * **Aug 2021** Our Paper "Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems" is accepted at [TCPS'21](https://dl.acm.org/journal/tcps/special-issue-ai) [[paper]](https://arxiv.org/abs/2108.11800)
 * **May 2021** Our Paper "Deep-RBF Networks for Anomaly Detection in Automotive Cyber-Physical Systems" is accepted at [SMARTCOMP'21](https://www.smart-comp.info/) [[paper]](https://arxiv.org/abs/2103.14172)
