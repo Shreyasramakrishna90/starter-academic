@@ -18,7 +18,7 @@ education:
   courses:
   - course: PhD in Electrical Engineering
     institution: Vanderbilt University, USA
-    year: 2017
+    year: 2022
   - course: Masters in Electrical Engineering and Computer Science
     institution: Technical Univerity Kaiserslautern, Germany
     year: 2013
