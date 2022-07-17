@@ -71,7 +71,7 @@ highlight_name: true
 I am an electrical engineering PhD from [Vanderbilt University](https://www.vanderbilt.edu/). I am advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and I work at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am funded by the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project.
 
 ## Recent News
-* **July 2022** I successfully defended my PhD on July 5th [[Defense Call]](https://www.linkedin.com/posts/vu-electrical-and-computer-engineering_engineering-cyberphysicalsystems-activity-6948301779109351424-LH0U?utm_source=linkedin_share&utm_medium=member_desktop_web) [[Defense Presentation]](media/Dissertation-Presentation.pdf)
+* **July 2022** I successfully defended my PhD on July 5th [[Defense Presentation]](media/Dissertation-Presentation.pdf)
 * **June 2022** Our paper "ANTI-CARLA: An Adversarial Testing Framework for Autonomous Vehicles in CARLA" is accepted at [ITSC'22](https://www.ieee-itsc2022.org/#/)
 * **Mar 2022** Our paper "Automating Pattern Selection for Assurance Case Development for Cyber-Physical Systems" is accepted at [SafeComp'22](https://safecomp22.iks.fraunhofer.de/)
 * **Jan 2022** I successfully passed my Qualifying exam, which officially makes me a PhD candidate at Vanderbilt University.
@@ -81,4 +81,4 @@ I am an electrical engineering PhD from [Vanderbilt University](https://www.vand
 * **May 2021** I will be interning at Siemens Corporation, Technology, over the summer. I will be working on the DARPA ARCOS project.
 * **Mar 2021** Our Paper "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems" is accepted at [SEAMS'21](https://conf.researchr.org/home/seams-2021) [[paper]](https://arxiv.org/abs/2102.09419)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}[resume]{{< /staticref >}} [[research slides]](https://vanderbilt365-my.sharepoint.com/:p:/g/personal/shreyas_ramakrishna_vanderbilt_edu/ES6TM5DPlMhMv0npCm0PLpoB-kkqsFr7ER_k3JbJ8WX6DQ?e=5HBPIS)
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}[resume]{{< /staticref >}} [[research slides]](media/Shreyas-Research-Portfolio.pdf)
