@@ -71,7 +71,7 @@ highlight_name: true
 I am an electrical engineering PhD from [Vanderbilt University](https://www.vanderbilt.edu/). I am advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and I work at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am funded by the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project.
 
 ## Recent News
-* **July 2022** I successfully defended my PhD on July 5th [[Defense Presentation]](media/Dissertation-Presentation.pdf)
+* **July 2022** I successfully defended my PhD on July 5th [Defense Presentation](media/Dissertation-Presentation.pdf)
 * **June 2022** Our paper "ANTI-CARLA: An Adversarial Testing Framework for Autonomous Vehicles in CARLA" is accepted at [ITSC'22](https://www.ieee-itsc2022.org/#/)
 * **Mar 2022** Our paper "Automating Pattern Selection for Assurance Case Development for Cyber-Physical Systems" is accepted at [SafeComp'22](https://safecomp22.iks.fraunhofer.de/)
 * **Jan 2022** I successfully passed my Qualifying exam, which officially makes me a PhD candidate at Vanderbilt University.
