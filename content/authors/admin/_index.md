@@ -68,7 +68,7 @@ email: "shreyasramakrishna90@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an electrical engineering PhD from [Vanderbilt University](https://www.vanderbilt.edu/). I am advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and I work at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am funded by the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project.
+I am Shreyas Ramakrishna. I have an electrical engineering PhD from [Vanderbilt University](https://www.vanderbilt.edu/). I was advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and I worked at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I was funded by the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project.
 
 ## Recent News
 * **July 2022** I successfully defended my PhD on July 5th [Defense Presentation](media/Dissertation-Presentation.pdf)
