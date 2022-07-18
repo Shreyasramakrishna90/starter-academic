@@ -44,7 +44,7 @@ experience:
     company: ScopeLab, Institute for Software Integrated Systems
     location: Nashville, TN
     date_start: '2019-01-06'
-    date_end: '2022-31-07'
+    date_end: ''
 
   - title: Journal Reviewer
     company: Elsevier, PHM Society
