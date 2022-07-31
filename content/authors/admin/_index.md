@@ -26,19 +26,6 @@ education:
     institution: Visvesvaraya Technological University, India
     year: 2012
 
-education:
-  courses:
-  - course: PhD in Electrical Engineering
-    institution: Vanderbilt University, USA
-    year: 2022
-  - course: Masters in Electrical Engineering and Computer Science
-    institution: Technical Univerity Kaiserslautern, Germany
-    year: 2015
-  - course: Bachelors in Electronics and Communication Engineering
-    institution: Visvesvaraya Technological University, India
-    year: 2012
-
-
 #experience:
 #  courses:
 #  - course: Senior Architect
@@ -55,11 +42,11 @@ education:
 #    year: 2015
 
  # Professional Experience to show in About widget
-#interests:
-#  - Cyber-Physical Systems
-#  - Autonomous Vehicles
-#  - Machine Learning
-#  - Safe AI
+interests:
+  - Cyber-Physical Systems
+  - Autonomous Vehicles
+  - Machine Learning
+  - Safe AI
 
 
   #header:
