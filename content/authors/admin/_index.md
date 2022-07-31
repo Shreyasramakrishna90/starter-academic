@@ -27,21 +27,6 @@ education:
     institution: Visvesvaraya Technological University, India
     year: 2012
 
-#experience:
-#  courses:
-#  - course: Senior Architect
-#    institution: NVIDIA, USA
-#    year: 2022
-#  - course: Graduate Research Assistant
-#    institution: Vanderbilt University, USA
-#    year: 2019
-#  - course: Research Intern
-#    institution: Siemens Corporation, Technology, USA
-#    year: 2021
-#  - course: Embedded Design Engineer
-#    institution: Apsis Solution, India
-#    year: 2015
-
  # Professional Experience to show in About widget
 interests:
   - Cyber-Physical Systems
@@ -50,8 +35,8 @@ interests:
   - Safety Engineering
 
 
-  #header:
-  #  image: "media/av.jpeg"
+  header:
+    image: "media/av.jpeg"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
