@@ -26,36 +26,18 @@ education:
     institution: Visvesvaraya Technological University, India
     year: 2012
 
-experience:
-  - title: Embedded Design Engineer
-    company: Apsis Solutions
-    location: Bangalore, India
-    date_start: '2015-09-01'
-    date_end: '2017-05-31'
+education:
+  courses:
+  - course: PhD in Electrical Engineering
+    institution: Vanderbilt University, USA
+    year: 2022
+  - course: Masters in Electrical Engineering and Computer Science
+    institution: Technical Univerity Kaiserslautern, Germany
+    year: 2015
+  - course: Bachelors in Electronics and Communication Engineering
+    institution: Visvesvaraya Technological University, India
+    year: 2012
 
-  - title: Research Intern
-    company: Siemens Corporate Technology
-    location: Princeton, NJ
-    date_start: '2021-05-17'
-    date_end: '2021-08-13'
-
-  - title: Graduate Research Assistant
-    company: ScopeLab, Institute for Software Integrated Systems
-    location: Nashville, TN
-    date_start: '2019-01-06'
-    date_end: '2022-07-29'
-
-  - title: Journal Reviewer
-    company: Elsevier, PHM Society
-    location: USA
-    date_start: '2022-06-01'
-    date_end: ''
-
-  - title: Senior Architect
-    company: NVIDIA, CA
-    location: USA
-    date_start: '2022-08-01'
-    date_end: ''
 
 #experience:
 #  courses:
