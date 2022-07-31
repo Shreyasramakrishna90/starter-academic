@@ -14,25 +14,25 @@
   url = "#experience"
   weight = 30
 
-[[main]]
-  name = "Research Overview"
-  url = "#Research"
-  weight = 40
-
-[[main]]
-  name = "Selected Videos"
-  url = "#Demo"
-  weight = 50
+# [[main]]
+#   name = "Research Overview"
+#   url = "#Research"
+#   weight = 40
 
 [[main]]
   name = "Projects"
   url = "#project"
-  weight = 60
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 70
+  weight = 50
+
+[[main]]
+  name = "Selected Videos"
+  url = "#Demo"
+  weight = 60
 
 #[[main]]
 #  name = "Contact"
