@@ -13,6 +13,11 @@ organizations:
 - name: NVIDIA
   url: https://www.nvidia.com/en-us/
 
+
+experience:
+  - Senior Architect, NVIDIA, USA  (August 2022 - Present)
+  - Graduate Research Assistant, Vanderbilt University, USA (June 2019 - July 2022)
+
 # Education to show in About widget
 education:
   courses:
@@ -40,10 +45,6 @@ education:
 #  - course: Embedded Design Engineer
 #    institution: Apsis Solution, India
 #    year: 2015
-
-experience:
-  - Senior Architect, NVIDIA, USA  (August 2022 - Present)
-  - Graduate Research Assistant, Vanderbilt University, USA (June 2019 - July 2022)
 
  # Professional Experience to show in About widget
 #interests:
