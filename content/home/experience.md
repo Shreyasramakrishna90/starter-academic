@@ -21,18 +21,19 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+#- title: Graduate Teaching Assistant
+#  company: Electrical Engineering & Computer Science Department, Vanderbilt University
+#  location: Nashville, TN
+#  date_start: '2017-08-15'
+#  date_end: '2018-12-15'
+
 experience:
   - title: Embedded Design Engineer
     company: Apsis Solutions
     location: Bangalore, India
     date_start: '2015-09-01'
     date_end: '2017-05-31'
-
-  <!-- - title: Graduate Teaching Assistant
-    company: Electrical Engineering & Computer Science Department, Vanderbilt University
-    location: Nashville, TN
-    date_start: '2017-08-15'
-    date_end: '2018-12-15' -->
 
   - title: Research Intern
     company: Siemens Corporate Technology
