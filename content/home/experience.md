@@ -28,11 +28,11 @@ experience:
     date_start: '2015-09-01'
     date_end: '2017-05-31'
 
-  - title: Graduate Teaching Assistant
+  <!-- - title: Graduate Teaching Assistant
     company: Electrical Engineering & Computer Science Department, Vanderbilt University
     location: Nashville, TN
     date_start: '2017-08-15'
-    date_end: '2018-12-15'
+    date_end: '2018-12-15' -->
 
   - title: Research Intern
     company: Siemens Corporate Technology
