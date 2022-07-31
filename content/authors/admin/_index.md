@@ -27,19 +27,50 @@ education:
     year: 2012
 
 experience:
-  courses:
-  - course: Senior Architect
-    institution: NVIDIA, USA
-    year: 2022
-  - course: Graduate Research Assistant
-    institution: Vanderbilt University, USA
-    year: 2019
-  - course: Research Intern
-    institution: Siemens Corporation, Technology, USA
-    year: 2021
-  - course: Embedded Design Engineer
-    institution: Apsis Solution, India
-    year: 2015 
+  - title: Embedded Design Engineer
+    company: Apsis Solutions
+    location: Bangalore, India
+    date_start: '2015-09-01'
+    date_end: '2017-05-31'
+
+  - title: Research Intern
+    company: Siemens Corporate Technology
+    location: Princeton, NJ
+    date_start: '2021-05-17'
+    date_end: '2021-08-13'
+
+  - title: Graduate Research Assistant
+    company: ScopeLab, Institute for Software Integrated Systems
+    location: Nashville, TN
+    date_start: '2019-01-06'
+    date_end: '2022-07-29'
+
+  - title: Journal Reviewer
+    company: Elsevier, PHM Society
+    location: USA
+    date_start: '2022-06-01'
+    date_end: ''
+
+  - title: Senior Architect
+    company: NVIDIA, CA
+    location: USA
+    date_start: '2022-08-01'
+    date_end: ''
+
+#experience:
+#  courses:
+#  - course: Senior Architect
+#    institution: NVIDIA, USA
+#    year: 2022
+#  - course: Graduate Research Assistant
+#    institution: Vanderbilt University, USA
+#    year: 2019
+#  - course: Research Intern
+#    institution: Siemens Corporation, Technology, USA
+#    year: 2021
+#  - course: Embedded Design Engineer
+#    institution: Apsis Solution, India
+#    year: 2015
 
  # Professional Experience to show in About widget
 #interests:
