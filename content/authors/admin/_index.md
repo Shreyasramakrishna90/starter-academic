@@ -41,12 +41,16 @@ education:
 #    institution: Apsis Solution, India
 #    year: 2015
 
+experience:
+  - Senior Architect, NVIDIA, USA  (August 2022 - Present)
+  - Graduate Research Assistant, Vanderbilt University, USA (June 2019 - July 2022)
+
  # Professional Experience to show in About widget
-interests:
-  - Cyber-Physical Systems
-  - Autonomous Vehicles
-  - Machine Learning
-  - Safe AI
+#interests:
+#  - Cyber-Physical Systems
+#  - Autonomous Vehicles
+#  - Machine Learning
+#  - Safe AI
 
 
   #header:
