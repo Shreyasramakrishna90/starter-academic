@@ -69,12 +69,18 @@ email: "shreyasramakrishna90@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<div style="text-align: justify">
 I am Shreyas Ramakrishna, a senior architect at [NVIDIA](https://www.nvidia.com/en-us/), CA (since August 2022). I received my Ph.D. in electrical engineering from [Vanderbilt University](https://www.vanderbilt.edu/), where I was advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and I worked at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). Before joining Vanderbilt University, I had a masters in electrical engineering with a specialization in [embedded systems](https://www.eit.uni-kl.de/en/topics/embedded-systems) from [Technical University Kaiserslautern](https://www.uni-kl.de/en/startseite), Germany and a Bachelors in electronics and communication engineering from [Visvesvaraya Technological University](https://vtu.ac.in/), India. In the past, I've interned with Siemens Corporation, Technology (2021).
+</div>
+
+<div style="text-align: justify">
+My current work at NVIDIA focuses on safety engineering. During my Ph.D., I worked on the <a href="https://www.darpa.mil/program/assured-autonomy">DARPA Assured Autonomy</a> project. My research focused on dynamic safety assurance techniques for autonomous cyber-physical systems. I designed a safety assurance framework that is a combination of traditional static safety assurance techniques (e.g., assurance cases) and machine learning monitors (e.g., anomaly detectors based on generative models) for proactive problem detection, risk assessment, and mitigation of the assessed risk of the system at runtime.
+</div>
 
 
-My current work at NVIDIA focuses on safety engineering. During my Ph.D., I worked on the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project. My research focused on dynamic safety assurance techniques for autonomous cyber-physical systems. I designed a safety assurance framework that is a combination of traditional static safety assurance techniques (e.g., assurance cases) and machine learning monitors (e.g., anomaly detectors based on generative models) for proactive problem detection, risk assessment, and mitigation of the assessed risk of the system at runtime.
-
+<div style="text-align: justify">
 I've published papers in prestigious international journals (such as Transactions on Cyber-physical systems, Journal of system architecture) and conferences such as SEAMS, EMSOFT, Safecomp, ITSC, and DESTION. Since June 2022, I've also reviewed manuscripts for well-known journals from Elsevier and PHM society.  
+</div>
 
 
 
