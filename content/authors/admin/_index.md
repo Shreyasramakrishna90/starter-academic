@@ -35,8 +35,8 @@ interests:
   - Safety Engineering
 
 
-  header:
-    image: "media/av.jpeg"
+  #header:
+  #  image: "media/av.jpeg"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
