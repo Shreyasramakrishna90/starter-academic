@@ -14,10 +14,6 @@ organizations:
   url: https://www.nvidia.com/en-us/
 
 
-experience:
-  - Senior Architect, NVIDIA, USA  (August 2022 - Present)
-  - Graduate Research Assistant, Vanderbilt University, USA (June 2019 - July 2022)
-
 # Education to show in About widget
 education:
   courses:
@@ -47,11 +43,11 @@ education:
 #    year: 2015
 
  # Professional Experience to show in About widget
-#interests:
-#  - Cyber-Physical Systems
-#  - Autonomous Vehicles
-#  - Machine Learning
-#  - Safe AI
+interests:
+  - Cyber-Physical Systems
+  - Autonomous Vehicles
+  - Machine Learning
+  - Safety Engineering
 
 
   #header:
@@ -94,7 +90,6 @@ I am Shreyas Ramakrishna, a senior architect at NVIDIA, CA (since August 2022). 
 
 My current work at NVIDIA focuses on safety engineering. During my Ph.D., I worked on the [DARPA Assured Autonomy](https://www.darpa.mil/program/assured-autonomy) project. My research focused on dynamic safety assurance techniques for autonomous cyber-physical systems. I designed a safety assurance framework that is a combination of traditional static safety assurance techniques (e.g., assurance cases) and machine learning monitors (e.g., anomaly detectors based on generative models) for proactive problem detection, risk assessment, and mitigation of the assessed risk of the system at runtime.
 
-**Research Interests** - Cyber-Physical Systems, Autonomous Vehicles, Machine Learning, Safety Engineering
 
 
 ## Recent News
