@@ -28,6 +28,12 @@ date_format: Jan 2006
 #  date_start: '2017-08-15'
 #  date_end: '2018-12-15'
 
+#- title: Journal Reviewer
+#  company: Elsevier, PHM Society
+#  location: USA
+#  date_start: '2022-06-01'
+#  date_end: ''
+
 experience:
   - title: Embedded Design Engineer
     company: Apsis Solutions
@@ -36,22 +42,16 @@ experience:
     date_end: '2017-05-31'
 
   - title: Research Intern
-    company: Siemens Corporate Technology
+    company: Siemens Corporation, Technology
     location: Princeton, NJ
     date_start: '2021-05-17'
     date_end: '2021-08-13'
 
   - title: Graduate Research Assistant
-    company: ScopeLab, Institute for Software Integrated Systems
+    company: ScopeLab, Institute for Software Integrated Systems, Vanderbilt University
     location: Nashville, TN
     date_start: '2019-01-06'
     date_end: '2022-07-29'
-
-  - title: Journal Reviewer
-    company: Elsevier, PHM Society
-    location: USA
-    date_start: '2022-06-01'
-    date_end: ''
 
   - title: Senior Architect
     company: NVIDIA
