@@ -54,8 +54,8 @@ experience:
     date_end: ''
 
   - title: Senior Architect
-    company: NVIDIA, CA
-    location: USA
+    company: NVIDIA
+    location: Santa Clara, CA
     date_start: '2022-08-01'
     date_end: ''
 
