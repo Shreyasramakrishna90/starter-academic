@@ -68,7 +68,7 @@ email: "shreyasramakrishna90@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<p align="center">
+<p align="justify">
 
 I am Shreyas Ramakrishna, a senior architect at NVIDIA, CA (since August 2022). I received my Ph.D. in electrical engineering from [Vanderbilt University](https://www.vanderbilt.edu/), where I was advised by Professor [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey), and I worked at [SCOPE Lab](https://scopelab.ai/index.html), which is located in [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). Before joining Vanderbilt University, I had a masters in electrical engineering with a specialization in [embedded systems](https://www.eit.uni-kl.de/en/topics/embedded-systems) from [Technical University Kaiserslautern](https://www.uni-kl.de/en/startseite), Germany and a Bachelors in electronics and communication engineering from [Visvesvaraya Technological University](https://vtu.ac.in/), India. In the past, I've interned with Siemens Corporation, Technology (2021).
 
