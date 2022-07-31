@@ -30,16 +30,16 @@ experience:
   courses:
   - course: Senior Architect
     institution: NVIDIA, USA
-    year: Aug 2022
+    year: 2022
   - course: Graduate Research Assistant
     institution: Vanderbilt University, USA
-    year: June 2019 - July 2022
+    year: 2019
   - course: Research Intern
     institution: Siemens Corporation, Technology, USA
-    year: May 2021 - Aug 2021
+    year: 2021
   - course: Embedded Design Engineer
     institution: Apsis Solution, India
-    year: Sep 2015 - May 2017 
+    year: 2015 
 
  # Professional Experience to show in About widget
 #interests:
