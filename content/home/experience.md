@@ -44,12 +44,18 @@ experience:
     company: ScopeLab, Institute for Software Integrated Systems
     location: Nashville, TN
     date_start: '2019-01-06'
-    date_end: ''
+    date_end: '2022-07-29'
 
   - title: Journal Reviewer
     company: Elsevier, PHM Society
     location: USA
     date_start: '2022-06-01'
+    date_end: ''
+
+  - title: Senior Architect
+    company: NVIDIA, CA
+    location: USA
+    date_start: '2022-08-01'
     date_end: ''
 
 ---
