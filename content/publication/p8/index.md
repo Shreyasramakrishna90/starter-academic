@@ -55,7 +55,7 @@ url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3339985.3358491'
 url_code: ''
 #url_dataset: ''
 #url_poster: ''
-#url_project: ''
+url_project: 'https://assured-autonomy.isis.vanderbilt.edu/'
 #url_slides: ''
 #url_source: ''
 #url_video: ''
@@ -72,8 +72,8 @@ url_code: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- proj3
+#projects:
+#- proj3
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -47,7 +47,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/document/9244027'
-#url_code: 'https://github.com/scope-lab-vu/deep-nn-car'
+url_code: 'https://github.com/scope-lab-vu/Beta-VAE-OOD-Detector'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
@@ -67,8 +67,8 @@ url_pdf: 'https://ieeexplore.ieee.org/document/9244027'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- proj4
+#projects:
+#- proj4
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

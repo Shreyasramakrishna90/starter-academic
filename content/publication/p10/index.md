@@ -69,8 +69,8 @@ url_code: 'https://github.com/scope-lab-vu/Resonate'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- proj2
+#projects:
+#- proj2
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
