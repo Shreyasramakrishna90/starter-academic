@@ -74,7 +74,7 @@ My current work at NVIDIA focuses on safety engineering. During my Ph.D., I work
 
 
 ## Recent News
-* **August 2022** I started working as a Senior Architect at NVIDIA
+* **Aug 2022** I started working as a Senior Architect at NVIDIA
 * **July 2022** I successfully defended my PhD on July 5th [Defense Presentation](media/Dissertation-Presentation.pdf)
 * **June 2022** Our paper "ANTI-CARLA: An Adversarial Testing Framework for Autonomous Vehicles in CARLA" is accepted at [ITSC'22](https://www.ieee-itsc2022.org/#/)
 * **Mar 2022** Our paper "Automating Pattern Selection for Assurance Case Development for Cyber-Physical Systems" is accepted at [SafeComp'22](https://safecomp22.iks.fraunhofer.de/)
