@@ -80,7 +80,7 @@ I am Shreyas Ramakrishna, a senior architect at <a href="https://www.nvidia.com/
 My current work at NVIDIA focuses on safety engineering. During my Ph.D., I worked on the <a href="https://www.darpa.mil/program/assured-autonomy">DARPA Assured Autonomy</a> project. My research focused on dynamic safety assurance techniques for autonomous cyber-physical systems. I designed a safety assurance framework that is a combination of traditional static safety assurance techniques (e.g., assurance cases) and machine learning monitors (e.g., anomaly detectors based on generative models) for proactive problem detection, risk assessment, and mitigation of the assessed risk of the system at runtime.
 
 
-I've published papers in prestigious international journals (such as Transactions on Cyber-physical systems, Journal of system architecture) and conferences such as SEAMS, EMSOFT, Safecomp, ITSC, and DESTION. Since June 2022, I've also reviewed manuscripts for well-known journals from Elsevier and PHM society.  
+I've published papers in prestigious international journals (such as Transactions on Cyber-physical systems, Journal of system architecture) and conferences such as SEAMS, EMSOFT, Safecomp, ITSC, and DESTION. Since June 2022, I've also reviewed manuscripts for well-known journals from Elsevier (such as Journals on Artificial Intelligence, and Reliability) and PHM society.  
 </div>
 
 
