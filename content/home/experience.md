@@ -28,11 +28,6 @@ date_format: Jan 2006
 #  date_start: '2017-08-15'
 #  date_end: '2018-12-15'
 
-#- title: Journal Reviewer
-#  company: Elsevier, PHM Society
-#  location: USA
-#  date_start: '2022-06-01'
-#  date_end: ''
 
 experience:
   - title: Embedded Design Engineer
@@ -52,6 +47,12 @@ experience:
     location: Nashville, TN
     date_start: '2019-01-06'
     date_end: '2022-07-29'
+
+  - title: Academic Reviewer
+    company: Elsevier, PHM Society
+    location: USA
+    date_start: '2022-06-01'
+    date_end: ''
 
   - title: Senior Architect
     company: NVIDIA
