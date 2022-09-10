@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2208.06309'
 url_code: 'https://github.com/scope-lab-vu/ANTI-CARLA'
 #url_dataset: ''
 #url_poster: ''

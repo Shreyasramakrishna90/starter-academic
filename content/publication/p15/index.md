@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-14835-4_6'
 url_code: 'https://github.com/scope-lab-vu/AV-Assurance'
 #url_dataset: ''
 #url_poster: ''
