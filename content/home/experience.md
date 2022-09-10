@@ -54,7 +54,7 @@ experience:
     date_start: '2022-06-01'
     date_end: ''
 
-  - title: Senior Architect
+  - title: Senior Architect, System Safety Engineer
     company: NVIDIA
     location: Santa Clara, CA
     date_start: '2022-08-01'
