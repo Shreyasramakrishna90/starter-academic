@@ -49,8 +49,8 @@ experience:
     date_end: '2022-07-29'
 
   - title: Academic Reviewer
-    company: Elsevier, PHM Society
-    location: USA
+    company: Elsevier, PHM Society, SAE
+    location: Online
     date_start: '2022-06-01'
     date_end: ''
 
