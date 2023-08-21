@@ -19,15 +19,15 @@
 #   url = "#Research"
 #   weight = 40
 
-# [[main]]
-#   name = "Projects"
-#   url = "#project"
-#   weight = 40
+[[main]]
+  name = "PHD Thesis"
+  url = "#project"
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 50
 
 # [[main]]
 #   name = "Selected Videos"
