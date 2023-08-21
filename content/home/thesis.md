@@ -46,10 +46,10 @@ design:
 <!-- xfun::embed_file("media/featured.pdf") -->
 
 <div align="justify">
-Title: <b> Dynamic Safety Assurance of Autonomous Cyber-Physical Systems </b>
+
+Title: <center><b> Dynamic Safety Assurance of Autonomous Cyber-Physical Systems </b> </center>
 
 Advisor: <a href="https://abhishekdubey.bio/">Abhishek Dubey</a>
-
 Rest of Thesis Committee: <a href="https://www.isis.vanderbilt.edu/user/46">Janos Sztipanovits</a>, <a href="https://www.isis.vanderbilt.edu/gabor">Gabor Karsai</a>, <a href="https://www.isis.vanderbilt.edu/user/78">Xenofon Koutsoukos</a>, <a href="https://www.linkedin.com/in/arun-ramamurthy-71b03b6a/">Arun Ramamurthy</a>, and <a href="https://ayanmukhopadhyay.github.io/">Ayan Mukhopadhyay</a>
 
 Abstract: Cyber-Physical Systems (CPSs) are ubiquitous through our interactions with applications such as smart homes, medical devices, avionics, and automobiles. However, the ever-increasing complexity, domain interdependence, and dynamic nature of operations have raised safety concerns in using them for safety-critical applications. Typically, safety assurance techniques such as an assurance case are used at design time to design a safety argument supported by evidence intended to demonstrate that the system will satisfy its assurance guarantees. The argument is subject to certain assumptions about the behavior of components and the system's operating environment. However, on deployment, the evolving nature of the system potentially invalidates the design-time assumptions, thereby defeating the safety argument. This problem of safety assurance is exacerbated by using data-driven Learning Enabled Components (e.g., Deep Neural Networks) to design autonomous CPS. Despite having performed well, the closed-world assumptions under which these components are trained often get invalidated when deployed in open-world scenarios (Out-of-Distribution data problem). The invalidation of these design-time assumptions could potentially increase the system's risk of consequence at runtime. Therefore, there is a need to continuously monitor these assumptions at runtime and quantify the risk posed to the system. This is not possible by the existing design-time safety assurance techniques and requires a dynamic safety assurance approach. This research aims to quantify the risk posed to autonomous CPS and select a suitable mitigation strategy for mitigating the risk at runtime.
