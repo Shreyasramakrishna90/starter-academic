@@ -82,13 +82,13 @@ My current work at NVIDIA focuses on safety engineering. During my Ph.D., I work
 
 
 
-## Recent News
+<!--## Recent News
 * **Apr 2023** NVIDIA DRIVE Platform gets safety certification from TUV. [NVIDIA Blog](https://blogs.nvidia.com/blog/2023/04/20/nvidia-drive-safety-milestones/?ncid=so-link-715362-vt03#cid=av16_so-link_en-us)
 * **Feb 2023** Our paper "Dynamic Simplex: Balancing Safety and Performance in Autonomous Cyber Physical Systems" is accepted at [ICCPS'23](https://iccps.acm.org/2023/) [[paper]](https://dl.acm.org/doi/abs/10.1145/3576841.3585934)
 * **Sep 2022** I will be attending the [GTC](https://www.nvidia.com/gtc/) conference hosted by NVIDIA between Sep 19 - 21
 * **Aug 2022** I started working as a Senior Safety Architect at NVIDIA
 * **July 2022** I successfully defended my PhD on July 5th [Defense Presentation](media/Dissertation-Presentation.pdf)
-* **June 2022** Our paper "ANTI-CARLA: An Adversarial Testing Framework for Autonomous Vehicles in CARLA" is accepted at [ITSC'22](https://www.ieee-itsc2022.org/#/) [[paper]](https://arxiv.org/abs/2208.06309)
+* **June 2022** Our paper "ANTI-CARLA: An Adversarial Testing Framework for Autonomous Vehicles in CARLA" is accepted at [ITSC'22](https://www.ieee-itsc2022.org/#/) [[paper]](https://arxiv.org/abs/2208.06309)-->
 
 
 
