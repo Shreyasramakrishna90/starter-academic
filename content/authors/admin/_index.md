@@ -107,4 +107,4 @@ Abstract: Cyber-Physical Systems (CPSs) are ubiquitous through our interactions 
 <!-- * **May 2021** I will be interning at Siemens Corporation, Technology, over the summer. I will be working on the DARPA ARCOS project.
 * **Mar 2021** Our Paper "ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems" is accepted at [SEAMS'21](https://conf.researchr.org/home/seams-2021) [[paper]](https://arxiv.org/abs/2102.09419) -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}[CV]{{< /staticref >}} [[Research Slides]](media/Shreyas-Research-Portfolio.pdf) [[PHD Thesis]](https://ir.vanderbilt.edu/handle/1803/17763)
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}[CV]{{< /staticref >}} [[Research Slides]](media/Shreyas-Research-Portfolio.pdf)
