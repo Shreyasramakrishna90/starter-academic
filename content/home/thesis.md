@@ -47,7 +47,7 @@ design:
 
 <div align="justify">
 
-Title: <center><b> Dynamic Safety Assurance of Autonomous Cyber-Physical Systems </b> </center>
+<center><b> Dynamic Safety Assurance of Autonomous Cyber-Physical Systems </b> </center>
 
 Advisor: <a href="https://abhishekdubey.bio/">Abhishek Dubey</a>
 Rest of Thesis Committee: <a href="https://www.isis.vanderbilt.edu/user/46">Janos Sztipanovits</a>, <a href="https://www.isis.vanderbilt.edu/gabor">Gabor Karsai</a>, <a href="https://www.isis.vanderbilt.edu/user/78">Xenofon Koutsoukos</a>, <a href="https://www.linkedin.com/in/arun-ramamurthy-71b03b6a/">Arun Ramamurthy</a>, and <a href="https://ayanmukhopadhyay.github.io/">Ayan Mukhopadhyay</a>
