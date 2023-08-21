@@ -19,10 +19,10 @@
 #   url = "#Research"
 #   weight = 40
 
-[[main]]
-  name = "PHD Thesis"
-  url = "#project"
-  weight = 40
+# [[main]]
+#   name = "PHD Thesis"
+#   url = "#project"
+#   weight = 40
 
 [[main]]
   name = "Publications"
